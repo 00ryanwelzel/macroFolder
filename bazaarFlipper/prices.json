@@ -1,0 +1,4237 @@
+[
+  {
+    "product_id": "WITHER_BLOOD",
+    "buy_price": 9999999.9,
+    "sell_price": 1570487.3,
+    "one_hour_instabuy": 16.488095238095237,
+    "coins_per_hour": 105291245.1
+  },
+  {
+    "product_id": "RECOMBOBULATOR_3000",
+    "buy_price": 10799999.8,
+    "sell_price": 10338367.3,
+    "one_hour_instabuy": 324.48809523809524,
+    "coins_per_hour": 48812309.4
+  },
+  {
+    "product_id": "SUMMONING_EYE",
+    "buy_price": 1491408.9,
+    "sell_price": 1332876.0,
+    "one_hour_instabuy": 477.32142857142856,
+    "coins_per_hour": 47839103.9
+  },
+  {
+    "product_id": "SHARD_THYST",
+    "buy_price": 300000.0,
+    "sell_price": 18146.3,
+    "one_hour_instabuy": 341.51785714285717,
+    "coins_per_hour": 36516741.1
+  },
+  {
+    "product_id": "PLANT_MATTER",
+    "buy_price": 45209.1,
+    "sell_price": 29372.6,
+    "one_hour_instabuy": 2743.029761904762,
+    "coins_per_hour": 35935820.7
+  },
+  {
+    "product_id": "HYPERGOLIC_GABAGOOL",
+    "buy_price": 4996223.2,
+    "sell_price": 3707027.6,
+    "one_hour_instabuy": 42.04761904761905,
+    "coins_per_hour": 33944516.0
+  },
+  {
+    "product_id": "PLASMA",
+    "buy_price": 384361.7,
+    "sell_price": 280666.9,
+    "one_hour_instabuy": 342.4761904761905,
+    "coins_per_hour": 28650911.0
+  },
+  {
+    "product_id": "ENCHANTMENT_PROTECTION_6",
+    "buy_price": 6093534.2,
+    "sell_price": 3926716.1,
+    "one_hour_instabuy": 33.18452380952381,
+    "coins_per_hour": 28524724.8
+  },
+  {
+    "product_id": "SHARD_POWER_DRAGON",
+    "buy_price": 541574.4,
+    "sell_price": 387638.6,
+    "one_hour_instabuy": 192.16071428571428,
+    "coins_per_hour": 24975910.0
+  },
+  {
+    "product_id": "ENCHANTMENT_GROWTH_6",
+    "buy_price": 6306306.6,
+    "sell_price": 4444448.2,
+    "one_hour_instabuy": 32.732142857142854,
+    "coins_per_hour": 23813345.7
+  },
+  {
+    "product_id": "REFINED_DIAMOND",
+    "buy_price": 621471.7,
+    "sell_price": 500033.6,
+    "one_hour_instabuy": 366.8988095238095,
+    "coins_per_hour": 22882795.3
+  },
+  {
+    "product_id": "SHARD_APEX_DRAGON",
+    "buy_price": 479970.6,
+    "sell_price": 356217.9,
+    "one_hour_instabuy": 204.61904761904762,
+    "coins_per_hour": 22587310.6
+  },
+  {
+    "product_id": "BOOSTER_COOKIE",
+    "buy_price": 10532440.0,
+    "sell_price": 10229134.7,
+    "one_hour_instabuy": 460.20238095238096,
+    "coins_per_hour": 22514314.9
+  },
+  {
+    "product_id": "SHARD_INVISIBUG",
+    "buy_price": 26738.9,
+    "sell_price": 20799.3,
+    "one_hour_instabuy": 4477.958333333333,
+    "coins_per_hour": 21103238.3
+  },
+  {
+    "product_id": "FLYCATCHER_UPGRADE",
+    "buy_price": 31875265.6,
+    "sell_price": 25617009.0,
+    "one_hour_instabuy": 4.833333333333333,
+    "coins_per_hour": 20647056.6
+  },
+  {
+    "product_id": "MAGMA_URCHIN",
+    "buy_price": 17514221.9,
+    "sell_price": 14000000.4,
+    "one_hour_instabuy": 11.19047619047619,
+    "coins_per_hour": 18498041.1
+  },
+  {
+    "product_id": "KISMET_FEATHER",
+    "buy_price": 1248445.3,
+    "sell_price": 1184579.6,
+    "one_hour_instabuy": 760.4107142857143,
+    "coins_per_hour": 17723229.7
+  },
+  {
+    "product_id": "OVERGROWN_GRASS",
+    "buy_price": 9999999.6,
+    "sell_price": 8521470.1,
+    "one_hour_instabuy": 30.803571428571427,
+    "coins_per_hour": 17407644.9
+  },
+  {
+    "product_id": "PRECURSOR_GEAR",
+    "buy_price": 971367.8,
+    "sell_price": 791609.5,
+    "one_hour_instabuy": 114.69047619047619,
+    "coins_per_hour": 17383376.1
+  },
+  {
+    "product_id": "SORROW",
+    "buy_price": 323478.6,
+    "sell_price": 264800.3,
+    "one_hour_instabuy": 418.2857142857143,
+    "coins_per_hour": 16736217.4
+  },
+  {
+    "product_id": "ENCHANTED_QUARTZ_BLOCK",
+    "buy_price": 158733.7,
+    "sell_price": 125271.3,
+    "one_hour_instabuy": 559.8690476190476,
+    "coins_per_hour": 16734985.1
+  },
+  {
+    "product_id": "BURROWING_SPORES",
+    "buy_price": 1999999.8,
+    "sell_price": 1235448.2,
+    "one_hour_instabuy": 39.214285714285715,
+    "coins_per_hour": 16292704.2
+  },
+  {
+    "product_id": "ENCHANTMENT_SHARPNESS_7",
+    "buy_price": 130499999.7,
+    "sell_price": 87000004.4,
+    "one_hour_instabuy": 1.2083333333333333,
+    "coins_per_hour": 15211404.5
+  },
+  {
+    "product_id": "STOPLIGHT_PETAL",
+    "buy_price": 12493927.1,
+    "sell_price": 8880319.4,
+    "one_hour_instabuy": 17.797619047619047,
+    "coins_per_hour": 14996224.5
+  },
+  {
+    "product_id": "GIANT_FRAGMENT_LASER",
+    "buy_price": 1510770.3,
+    "sell_price": 1347213.5,
+    "one_hour_instabuy": 114.33928571428571,
+    "coins_per_hour": 14814308.8
+  },
+  {
+    "product_id": "TUNGSTEN_PLATE",
+    "buy_price": 14278880.0,
+    "sell_price": 12252572.1,
+    "one_hour_instabuy": 25.273809523809526,
+    "coins_per_hour": 14726208.5
+  },
+  {
+    "product_id": "FRESHLY_MINTED_COINS",
+    "buy_price": 2849986.9,
+    "sell_price": 2327603.9,
+    "one_hour_instabuy": 51.517857142857146,
+    "coins_per_hour": 14236012.1
+  },
+  {
+    "product_id": "REFINED_TUNGSTEN",
+    "buy_price": 2793178.6,
+    "sell_price": 2514630.9,
+    "one_hour_instabuy": 68.58333333333333,
+    "coins_per_hour": 13471052.4
+  },
+  {
+    "product_id": "SHARD_BOLT",
+    "buy_price": 505674.4,
+    "sell_price": 83949.1,
+    "one_hour_instabuy": 218.70238095238096,
+    "coins_per_hour": 13348510.6
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_CROP_FEVER_5",
+    "buy_price": 31999992.7,
+    "sell_price": 12000000.4,
+    "one_hour_instabuy": 12.101190476190476,
+    "coins_per_hour": 13312375.7
+  },
+  {
+    "product_id": "ENCHANTED_PACKED_ICE",
+    "buy_price": 33905.4,
+    "sell_price": 20004.0,
+    "one_hour_instabuy": 995.1428571428571,
+    "coins_per_hour": 13074712.8
+  },
+  {
+    "product_id": "FLAWLESS_JASPER_GEM",
+    "buy_price": 6377010.6,
+    "sell_price": 5481611.7,
+    "one_hour_instabuy": 67.41666666666667,
+    "coins_per_hour": 13019786.4
+  },
+  {
+    "product_id": "PESTHUNTING_GUIDE",
+    "buy_price": 2917555.0,
+    "sell_price": 2300007.0,
+    "one_hour_instabuy": 33.398809523809526,
+    "coins_per_hour": 12743046.3
+  },
+  {
+    "product_id": "FUMING_POTATO_BOOK",
+    "buy_price": 1447998.8,
+    "sell_price": 1363018.7,
+    "one_hour_instabuy": 315.75,
+    "coins_per_hour": 12727616.6
+  },
+  {
+    "product_id": "PERFECT_PERIDOT_GEM",
+    "buy_price": 27999993.3,
+    "sell_price": 26171969.3,
+    "one_hour_instabuy": 28.035714285714285,
+    "coins_per_hour": 12650564.5
+  },
+  {
+    "product_id": "SHARD_GHOST",
+    "buy_price": 23954.7,
+    "sell_price": 19000.7,
+    "one_hour_instabuy": 3139.5416666666665,
+    "coins_per_hour": 12503571.0
+  },
+  {
+    "product_id": "VERMIN_VAPORIZER_GARDEN_CHIP",
+    "buy_price": 529191.5,
+    "sell_price": 430000.3,
+    "one_hour_instabuy": 192.23214285714286,
+    "coins_per_hour": 12443221.3
+  },
+  {
+    "product_id": "PERFECT_ONYX_GEM",
+    "buy_price": 17898999.9,
+    "sell_price": 14695977.4,
+    "one_hour_instabuy": 13.505952380952381,
+    "coins_per_hour": 12184616.9
+  },
+  {
+    "product_id": "FINE_JASPER_GEM",
+    "buy_price": 78320.6,
+    "sell_price": 65136.5,
+    "one_hour_instabuy": 1047.0535714285713,
+    "coins_per_hour": 11959327.1
+  },
+  {
+    "product_id": "BRAIDED_GRIFFIN_FEATHER",
+    "buy_price": 51815730.2,
+    "sell_price": 43000001.9,
+    "one_hour_instabuy": 7.053571428571429,
+    "coins_per_hour": 11884626.3
+  },
+  {
+    "product_id": "HONEY_JAR",
+    "buy_price": 6938.7,
+    "sell_price": 1416.4,
+    "one_hour_instabuy": 2204.1130952380954,
+    "coins_per_hour": 11827666.0
+  },
+  {
+    "product_id": "SOULFLOW",
+    "buy_price": 15998.3,
+    "sell_price": 13181.6,
+    "one_hour_instabuy": 6012.517857142857,
+    "coins_per_hour": 11721068.9
+  },
+  {
+    "product_id": "TITANIC_EXP_BOTTLE",
+    "buy_price": 624990.8,
+    "sell_price": 573832.2,
+    "one_hour_instabuy": 1162.5416666666667,
+    "coins_per_hour": 11616222.8
+  },
+  {
+    "product_id": "ENCHANTED_GOLD_BLOCK",
+    "buy_price": 94573.2,
+    "sell_price": 87541.4,
+    "one_hour_instabuy": 3441.5178571428573,
+    "coins_per_hour": 11560425.9
+  },
+  {
+    "product_id": "DIVER_FRAGMENT",
+    "buy_price": 4417339.3,
+    "sell_price": 3673439.6,
+    "one_hour_instabuy": 23.517857142857142,
+    "coins_per_hour": 11428535.7
+  },
+  {
+    "product_id": "THE_ART_OF_WAR",
+    "buy_price": 9529903.3,
+    "sell_price": 8655810.8,
+    "one_hour_instabuy": 17.601190476190474,
+    "coins_per_hour": 11367522.1
+  },
+  {
+    "product_id": "DRAGON_HORN",
+    "buy_price": 13049987.4,
+    "sell_price": 9394876.0,
+    "one_hour_instabuy": 11.827380952380953,
+    "coins_per_hour": 11304999.9
+  },
+  {
+    "product_id": "ESSENCE_GOLD",
+    "buy_price": 531.2,
+    "sell_price": 346.6,
+    "one_hour_instabuy": 63857.77380952381,
+    "coins_per_hour": 11024916.9
+  },
+  {
+    "product_id": "RUSTY_COIN",
+    "buy_price": 46152.9,
+    "sell_price": 35028.7,
+    "one_hour_instabuy": 1071.9880952380952,
+    "coins_per_hour": 10811814.4
+  },
+  {
+    "product_id": "ENCHANTMENT_SYPHON_4",
+    "buy_price": 1697076.4,
+    "sell_price": 440549.2,
+    "one_hour_instabuy": 18.071428571428573,
+    "coins_per_hour": 10682257.2
+  },
+  {
+    "product_id": "ENCHANTMENT_GREEN_THUMB_5",
+    "buy_price": 37322278.0,
+    "sell_price": 23716115.3,
+    "one_hour_instabuy": 7.196428571428571,
+    "coins_per_hour": 10562685.7
+  },
+  {
+    "product_id": "REFINED_TITANIUM",
+    "buy_price": 554982.4,
+    "sell_price": 503183.7,
+    "one_hour_instabuy": 377.1309523809524,
+    "coins_per_hour": 10272026.4
+  },
+  {
+    "product_id": "SHARD_DRACONIC",
+    "buy_price": 194737.4,
+    "sell_price": 136218.5,
+    "one_hour_instabuy": 196.61904761904762,
+    "coins_per_hour": 10245485.6
+  },
+  {
+    "product_id": "ENCHANTED_DANDELION",
+    "buy_price": 35921.0,
+    "sell_price": 30086.0,
+    "one_hour_instabuy": 2329.595238095238,
+    "coins_per_hour": 10235566.2
+  },
+  {
+    "product_id": "SHARD_CORALOT",
+    "buy_price": 93248.7,
+    "sell_price": 77540.7,
+    "one_hour_instabuy": 889.9285714285714,
+    "coins_per_hour": 9888162.5
+  },
+  {
+    "product_id": "ENCHANTMENT_PROSECUTE_6",
+    "buy_price": 123086969.5,
+    "sell_price": 87909741.8,
+    "one_hour_instabuy": 0.8809523809523809,
+    "coins_per_hour": 9645169.9
+  },
+  {
+    "product_id": "ENCHANTMENT_SHARPNESS_6",
+    "buy_price": 1499984.9,
+    "sell_price": 699389.1,
+    "one_hour_instabuy": 26.958333333333332,
+    "coins_per_hour": 9544495.7
+  },
+  {
+    "product_id": "SOUL_STRING",
+    "buy_price": 9932.4,
+    "sell_price": 7482.5,
+    "one_hour_instabuy": 4278.452380952381,
+    "coins_per_hour": 9525636.2
+  },
+  {
+    "product_id": "SHARD_KRAKEN",
+    "buy_price": 253586.8,
+    "sell_price": 226764.1,
+    "one_hour_instabuy": 508.85714285714283,
+    "coins_per_hour": 9471601.6
+  },
+  {
+    "product_id": "FLAWLESS_ONYX_GEM",
+    "buy_price": 1749995.7,
+    "sell_price": 1442701.7,
+    "one_hour_instabuy": 43.839285714285715,
+    "coins_per_hour": 9439363.9
+  },
+  {
+    "product_id": "ENCHANTED_SEA_LUMIES",
+    "buy_price": 92595.9,
+    "sell_price": 75995.2,
+    "one_hour_instabuy": 915.1904761904761,
+    "coins_per_hour": 9371949.1
+  },
+  {
+    "product_id": "SHARD_HUMMINGBIRD",
+    "buy_price": 340000.0,
+    "sell_price": 194253.1,
+    "one_hour_instabuy": 82.38690476190476,
+    "coins_per_hour": 9277152.5
+  },
+  {
+    "product_id": "FILLED_ROSEWATER_FLASK",
+    "buy_price": 14499997.7,
+    "sell_price": 12000000.0,
+    "one_hour_instabuy": 24.779761904761905,
+    "coins_per_hour": 9147855.1
+  },
+  {
+    "product_id": "FLAWLESS_AMETHYST_GEM",
+    "buy_price": 2999989.9,
+    "sell_price": 2145051.0,
+    "one_hour_instabuy": 34.48809523809524,
+    "coins_per_hour": 9069611.4
+  },
+  {
+    "product_id": "KUUDRA_MANDIBLE",
+    "buy_price": 3648476.0,
+    "sell_price": 484786.8,
+    "one_hour_instabuy": 2.9166666666666665,
+    "coins_per_hour": 8987995.6
+  },
+  {
+    "product_id": "HOLY_FRAGMENT",
+    "buy_price": 16750.6,
+    "sell_price": 10754.9,
+    "one_hour_instabuy": 1599.3869047619048,
+    "coins_per_hour": 8986653.5
+  },
+  {
+    "product_id": "KUUDRA_TENTACLE",
+    "buy_price": 4485509.0,
+    "sell_price": 4176370.1,
+    "one_hour_instabuy": 43.05952380952381,
+    "coins_per_hour": 8939609.6
+  },
+  {
+    "product_id": "PLASMA_BUCKET",
+    "buy_price": 9899999.3,
+    "sell_price": 9002037.4,
+    "one_hour_instabuy": 25.035714285714285,
+    "coins_per_hour": 8894309.3
+  },
+  {
+    "product_id": "SHARD_CHAMELEON",
+    "buy_price": 1751828.0,
+    "sell_price": 1568469.3,
+    "one_hour_instabuy": 60.732142857142854,
+    "coins_per_hour": 8741940.7
+  },
+  {
+    "product_id": "PERFECT_TOPAZ_GEM",
+    "buy_price": 15499993.6,
+    "sell_price": 13781635.3,
+    "one_hour_instabuy": 13.696428571428571,
+    "coins_per_hour": 8739406.3
+  },
+  {
+    "product_id": "SHARD_PEST",
+    "buy_price": 18167.1,
+    "sell_price": 15286.0,
+    "one_hour_instabuy": 5056.577380952381,
+    "coins_per_hour": 8692218.5
+  },
+  {
+    "product_id": "ENDER_MONOCLE",
+    "buy_price": 183115.9,
+    "sell_price": 38807.9,
+    "one_hour_instabuy": 72.05357142857143,
+    "coins_per_hour": 8683304.8
+  },
+  {
+    "product_id": "SHARD_BURNINGSOUL",
+    "buy_price": 99840.5,
+    "sell_price": 85815.0,
+    "one_hour_instabuy": 1196.1488095238096,
+    "coins_per_hour": 8557017.2
+  },
+  {
+    "product_id": "FREE_WILL",
+    "buy_price": 3899997.4,
+    "sell_price": 3260001.2,
+    "one_hour_instabuy": 21.761904761904763,
+    "coins_per_hour": 8444765.7
+  },
+  {
+    "product_id": "SHARD_GALAXY_FISH",
+    "buy_price": 3224967.1,
+    "sell_price": 2390129.5,
+    "one_hour_instabuy": 30.053571428571427,
+    "coins_per_hour": 8362347.5
+  },
+  {
+    "product_id": "AVARICIOUS_CHALICE",
+    "buy_price": 134499997.5,
+    "sell_price": 121049951.4,
+    "one_hour_instabuy": 2.2976190476190474,
+    "coins_per_hour": 8314218.4
+  },
+  {
+    "product_id": "SHARD_WITHER",
+    "buy_price": 790998.7,
+    "sell_price": 514000.1,
+    "one_hour_instabuy": 31.476190476190474,
+    "coins_per_hour": 8158664.1
+  },
+  {
+    "product_id": "ENCHANTMENT_DEDICATION_4",
+    "buy_price": 46661172.0,
+    "sell_price": 40344277.7,
+    "one_hour_instabuy": 8.267857142857142,
+    "coins_per_hour": 7931878.2
+  },
+  {
+    "product_id": "PERFECT_JASPER_GEM",
+    "buy_price": 31686266.5,
+    "sell_price": 29675415.8,
+    "one_hour_instabuy": 12.898809523809524,
+    "coins_per_hour": 7795183.9
+  },
+  {
+    "product_id": "PERFECT_JADE_GEM",
+    "buy_price": 14913304.0,
+    "sell_price": 13832900.3,
+    "one_hour_instabuy": 23.833333333333332,
+    "coins_per_hour": 7696828.4
+  },
+  {
+    "product_id": "PUFFERCLOUD",
+    "buy_price": 3879996.4,
+    "sell_price": 2150359.6,
+    "one_hour_instabuy": 23.654761904761905,
+    "coins_per_hour": 7664238.8
+  },
+  {
+    "product_id": "UMBER_KEY",
+    "buy_price": 3677711.5,
+    "sell_price": 3350888.5,
+    "one_hour_instabuy": 108.58333333333333,
+    "coins_per_hour": 7652025.9
+  },
+  {
+    "product_id": "ENCHANTED_GLACITE",
+    "buy_price": 2839.7,
+    "sell_price": 1793.3,
+    "one_hour_instabuy": 7782.625,
+    "coins_per_hour": 7646481.6
+  },
+  {
+    "product_id": "ENCHANTMENT_GIANT_KILLER_6",
+    "buy_price": 1051245.4,
+    "sell_price": 300000.2,
+    "one_hour_instabuy": 21.18452380952381,
+    "coins_per_hour": 7639717.9
+  },
+  {
+    "product_id": "FLAMES",
+    "buy_price": 199999.3,
+    "sell_price": 61477.1,
+    "one_hour_instabuy": 56.732142857142854,
+    "coins_per_hour": 7603367.5
+  },
+  {
+    "product_id": "OVERDRIVE_GARDEN_CHIP",
+    "buy_price": 2337391.1,
+    "sell_price": 1900022.2,
+    "one_hour_instabuy": 40.57142857142857,
+    "coins_per_hour": 7532937.7
+  },
+  {
+    "product_id": "ENCHANTED_RABBIT",
+    "buy_price": 3267.2,
+    "sell_price": 2688.6,
+    "one_hour_instabuy": 14897.684523809523,
+    "coins_per_hour": 7524641.7
+  },
+  {
+    "product_id": "SUPER_COMPACTOR_3000",
+    "buy_price": 193997.7,
+    "sell_price": 143562.7,
+    "one_hour_instabuy": 280.6666666666667,
+    "coins_per_hour": 7516822.6
+  },
+  {
+    "product_id": "REKINDLED_EMBER_FRAGMENT",
+    "buy_price": 191478.7,
+    "sell_price": 70023.3,
+    "one_hour_instabuy": 65.24404761904762,
+    "coins_per_hour": 7469524.1
+  },
+  {
+    "product_id": "SHARD_DROWNED",
+    "buy_price": 89998.9,
+    "sell_price": 12133.4,
+    "one_hour_instabuy": 305.20238095238096,
+    "coins_per_hour": 7468034.5
+  },
+  {
+    "product_id": "ENCHANTMENT_STRONG_MANA_5",
+    "buy_price": 2594585.7,
+    "sell_price": 2216344.4,
+    "one_hour_instabuy": 34.19047619047619,
+    "coins_per_hour": 7309253.1
+  },
+  {
+    "product_id": "ENCHANTED_RAW_BEEF",
+    "buy_price": 1186.8,
+    "sell_price": 530.6,
+    "one_hour_instabuy": 11572.125,
+    "coins_per_hour": 7284618.0
+  },
+  {
+    "product_id": "MAGMA_BUCKET",
+    "buy_price": 3520000.0,
+    "sell_price": 3034980.9,
+    "one_hour_instabuy": 24.172619047619047,
+    "coins_per_hour": 7176717.5
+  },
+  {
+    "product_id": "ENCHANTED_MYCELIUM",
+    "buy_price": 1548.7,
+    "sell_price": 1204.3,
+    "one_hour_instabuy": 22747.64880952381,
+    "coins_per_hour": 7041631.4
+  },
+  {
+    "product_id": "JACOBS_TICKET",
+    "buy_price": 51098.4,
+    "sell_price": 49302.3,
+    "one_hour_instabuy": 13415.0,
+    "coins_per_hour": 6953074.2
+  },
+  {
+    "product_id": "ENCHANTMENT_FEROCIOUS_MANA_5",
+    "buy_price": 799999.2,
+    "sell_price": 500003.3,
+    "one_hour_instabuy": 28.363095238095237,
+    "coins_per_hour": 6840079.6
+  },
+  {
+    "product_id": "UMBER_PLATE",
+    "buy_price": 14861106.3,
+    "sell_price": 13709229.6,
+    "one_hour_instabuy": 24.916666666666668,
+    "coins_per_hour": 6515684.1
+  },
+  {
+    "product_id": "SCORCHED_POWER_CRYSTAL",
+    "buy_price": 923259.2,
+    "sell_price": 750016.7,
+    "one_hour_instabuy": 84.20238095238095,
+    "coins_per_hour": 6341083.8
+  },
+  {
+    "product_id": "FERMENTO",
+    "buy_price": 268565.3,
+    "sell_price": 251802.3,
+    "one_hour_instabuy": 584.827380952381,
+    "coins_per_hour": 6269513.7
+  },
+  {
+    "product_id": "SPELL_POWDER",
+    "buy_price": 77287.2,
+    "sell_price": 14920.8,
+    "one_hour_instabuy": 101.48214285714286,
+    "coins_per_hour": 6152602.3
+  },
+  {
+    "product_id": "SHARD_MINER_ZOMBIE",
+    "buy_price": 13568.9,
+    "sell_price": 11791.8,
+    "one_hour_instabuy": 5587.690476190476,
+    "coins_per_hour": 6110439.5
+  },
+  {
+    "product_id": "SHARD_SHELLWISE",
+    "buy_price": 83435.8,
+    "sell_price": 76000.5,
+    "one_hour_instabuy": 1558.1964285714287,
+    "coins_per_hour": 6041440.8
+  },
+  {
+    "product_id": "ENCHANTMENT_GROWTH_7",
+    "buy_price": 76399999.7,
+    "sell_price": 60000013.9,
+    "one_hour_instabuy": 1.0714285714285714,
+    "coins_per_hour": 6029690.6
+  },
+  {
+    "product_id": "ENCHANTMENT_LOOTING_5",
+    "buy_price": 109999999.0,
+    "sell_price": 91238933.1,
+    "one_hour_instabuy": 1.6607142857142858,
+    "coins_per_hour": 6010333.9
+  },
+  {
+    "product_id": "DIVAN_POWDER_COATING",
+    "buy_price": 74999999.9,
+    "sell_price": 54000001.3,
+    "one_hour_instabuy": 4.041666666666667,
+    "coins_per_hour": 5977678.1
+  },
+  {
+    "product_id": "BERBERIS_FUEL_INJECTOR",
+    "buy_price": 2639359.7,
+    "sell_price": 2030630.3,
+    "one_hour_instabuy": 18.291666666666668,
+    "coins_per_hour": 5928335.2
+  },
+  {
+    "product_id": "MANGCORE",
+    "buy_price": 315658.2,
+    "sell_price": 215623.6,
+    "one_hour_instabuy": 119.36904761904762,
+    "coins_per_hour": 5841458.3
+  },
+  {
+    "product_id": "ENCHANTMENT_PROTECTION_7",
+    "buy_price": 85699997.8,
+    "sell_price": 53500001.1,
+    "one_hour_instabuy": 0.9880952380952381,
+    "coins_per_hour": 5766047.0
+  },
+  {
+    "product_id": "PERFECT_AMBER_GEM",
+    "buy_price": 15499999.6,
+    "sell_price": 14525529.6,
+    "one_hour_instabuy": 25.357142857142858,
+    "coins_per_hour": 5728317.7
+  },
+  {
+    "product_id": "ENCHANTED_MITHRIL",
+    "buy_price": 1380.0,
+    "sell_price": 1271.5,
+    "one_hour_instabuy": 73710.35714285714,
+    "coins_per_hour": 5708867.2
+  },
+  {
+    "product_id": "ENCHANTED_REDSTONE",
+    "buy_price": 977.2,
+    "sell_price": 823.3,
+    "one_hour_instabuy": 42340.13690476191,
+    "coins_per_hour": 5585214.5
+  },
+  {
+    "product_id": "SHARD_BAL",
+    "buy_price": 449712.4,
+    "sell_price": 197954.4,
+    "one_hour_instabuy": 58.26190476190476,
+    "coins_per_hour": 5461339.7
+  },
+  {
+    "product_id": "ENCHANTED_RAW_FISH",
+    "buy_price": 1145.4,
+    "sell_price": 923.8,
+    "one_hour_instabuy": 27725.10714285714,
+    "coins_per_hour": 5429366.1
+  },
+  {
+    "product_id": "GIANT_FRAGMENT_DIAMOND",
+    "buy_price": 774512.4,
+    "sell_price": 693551.3,
+    "one_hour_instabuy": 85.08928571428571,
+    "coins_per_hour": 5406111.3
+  },
+  {
+    "product_id": "PRECURSOR_APPARATUS",
+    "buy_price": 1153026.7,
+    "sell_price": 1070631.4,
+    "one_hour_instabuy": 267.5892857142857,
+    "coins_per_hour": 5402945.9
+  },
+  {
+    "product_id": "ENCHANTMENT_DELICATE_5",
+    "buy_price": 3829286.7,
+    "sell_price": 2292870.5,
+    "one_hour_instabuy": 14.821428571428571,
+    "coins_per_hour": 5386669.8
+  },
+  {
+    "product_id": "GRIFFIN_UPGRADE_STONE_MYTHIC",
+    "buy_price": 174999999.0,
+    "sell_price": 123586751.1,
+    "one_hour_instabuy": 0.20833333333333334,
+    "coins_per_hour": 5369281.0
+  },
+  {
+    "product_id": "SHARD_CHILL",
+    "buy_price": 11821.2,
+    "sell_price": 9000.4,
+    "one_hour_instabuy": 3911.3630952380954,
+    "coins_per_hour": 5343427.5
+  },
+  {
+    "product_id": "GLOOMGOURD",
+    "buy_price": 3547.4,
+    "sell_price": 1227.8,
+    "one_hour_instabuy": 2377.5833333333335,
+    "coins_per_hour": 5325271.9
+  },
+  {
+    "product_id": "INFERNO_VERTEX",
+    "buy_price": 472123.2,
+    "sell_price": 318783.5,
+    "one_hour_instabuy": 66.92261904761905,
+    "coins_per_hour": 5307710.5
+  },
+  {
+    "product_id": "CORRUPTED_NETHER_STAR",
+    "buy_price": 74092.2,
+    "sell_price": 67615.5,
+    "one_hour_instabuy": 1101.6130952380952,
+    "coins_per_hour": 5298346.4
+  },
+  {
+    "product_id": "ENCHANTED_REDSTONE_BLOCK",
+    "buy_price": 25298.8,
+    "sell_price": 22702.3,
+    "one_hour_instabuy": 2575.3869047619046,
+    "coins_per_hour": 5221022.6
+  },
+  {
+    "product_id": "ENCHANTMENT_REJUVENATE_5",
+    "buy_price": 967986.9,
+    "sell_price": 472055.3,
+    "one_hour_instabuy": 106.91071428571429,
+    "coins_per_hour": 5190269.8
+  },
+  {
+    "product_id": "CREAMBLOOM",
+    "buy_price": 481702.7,
+    "sell_price": 317061.5,
+    "one_hour_instabuy": 121.38690476190476,
+    "coins_per_hour": 5170706.7
+  },
+  {
+    "product_id": "FLAWLESS_SAPPHIRE_GEM",
+    "buy_price": 2664061.8,
+    "sell_price": 2413066.8,
+    "one_hour_instabuy": 79.44642857142857,
+    "coins_per_hour": 5159584.7
+  },
+  {
+    "product_id": "GIANT_PIG_EAR",
+    "buy_price": 4011452.8,
+    "sell_price": 2205000.9,
+    "one_hour_instabuy": 3.4761904761904763,
+    "coins_per_hour": 5117936.3
+  },
+  {
+    "product_id": "ESSENCE_CRIMSON",
+    "buy_price": 1110.7,
+    "sell_price": 1071.9,
+    "one_hour_instabuy": 1034557.6488095238,
+    "coins_per_hour": 5108301.9
+  },
+  {
+    "product_id": "ENCHANTED_SLIME_BALL",
+    "buy_price": 1083.1,
+    "sell_price": 951.8,
+    "one_hour_instabuy": 50014.27976190476,
+    "coins_per_hour": 5045926.5
+  },
+  {
+    "product_id": "ENCHANTED_DIAMOND",
+    "buy_price": 1373.2,
+    "sell_price": 1209.3,
+    "one_hour_instabuy": 37902.42261904762,
+    "coins_per_hour": 5041135.9
+  },
+  {
+    "product_id": "WITHER_CATALYST",
+    "buy_price": 1183092.8,
+    "sell_price": 1108028.0,
+    "one_hour_instabuy": 103.24404761904762,
+    "coins_per_hour": 5001679.8
+  },
+  {
+    "product_id": "ENCHANTMENT_GREEN_THUMB_1",
+    "buy_price": 2249980.4,
+    "sell_price": 2144171.6,
+    "one_hour_instabuy": 185.73214285714286,
+    "coins_per_hour": 4996801.6
+  },
+  {
+    "product_id": "PLANTBOY_ADVANCE",
+    "buy_price": 14512134.1,
+    "sell_price": 10000000.4,
+    "one_hour_instabuy": 4.285714285714286,
+    "coins_per_hour": 4957955.5
+  },
+  {
+    "product_id": "FAKE_SHURIKEN",
+    "buy_price": 71003.2,
+    "sell_price": 54938.6,
+    "one_hour_instabuy": 1206.142857142857,
+    "coins_per_hour": 4877196.8
+  },
+  {
+    "product_id": "PET_ITEM_LUCKY_CLOVER_DROP",
+    "buy_price": 4769999.4,
+    "sell_price": 2954624.5,
+    "one_hour_instabuy": 6.136904761904762,
+    "coins_per_hour": 4849641.7
+  },
+  {
+    "product_id": "SHARD_MOCHIBEAR",
+    "buy_price": 117493.0,
+    "sell_price": 90000.5,
+    "one_hour_instabuy": 369.6309523809524,
+    "coins_per_hour": 4828971.0
+  },
+  {
+    "product_id": "ENCHANTED_LAVA_BUCKET",
+    "buy_price": 74751.8,
+    "sell_price": 41000.5,
+    "one_hour_instabuy": 306.7202380952381,
+    "coins_per_hour": 4826060.6
+  },
+  {
+    "product_id": "OIL_BARREL",
+    "buy_price": 5670.1,
+    "sell_price": 3255.2,
+    "one_hour_instabuy": 2108.660714285714,
+    "coins_per_hour": 4823187.6
+  },
+  {
+    "product_id": "ENCHANTED_BLAZE_POWDER",
+    "buy_price": 2667.9,
+    "sell_price": 1766.5,
+    "one_hour_instabuy": 5731.363095238095,
+    "coins_per_hour": 4822209.9
+  },
+  {
+    "product_id": "VERY_CRUDE_GABAGOOL",
+    "buy_price": 52330.4,
+    "sell_price": 48738.6,
+    "one_hour_instabuy": 1985.482142857143,
+    "coins_per_hour": 4793680.6
+  },
+  {
+    "product_id": "SHARD_MOLTHORN",
+    "buy_price": 9199996.6,
+    "sell_price": 7585000.8,
+    "one_hour_instabuy": 9.136904761904763,
+    "coins_per_hour": 4760367.0
+  },
+  {
+    "product_id": "BEJEWELED_HANDLE",
+    "buy_price": 225909.5,
+    "sell_price": 180000.1,
+    "one_hour_instabuy": 122.96428571428571,
+    "coins_per_hour": 4753606.7
+  },
+  {
+    "product_id": "ENCHANTMENT_VENOMOUS_6",
+    "buy_price": 808023.9,
+    "sell_price": 178238.8,
+    "one_hour_instabuy": 20.11904761904762,
+    "coins_per_hour": 4725373.3
+  },
+  {
+    "product_id": "ALL_IN_ALOE",
+    "buy_price": 524163.2,
+    "sell_price": 218389.2,
+    "one_hour_instabuy": 33.30357142857143,
+    "coins_per_hour": 4675687.1
+  },
+  {
+    "product_id": "ENCHANTED_GLOWSTONE",
+    "buy_price": 59552.7,
+    "sell_price": 50603.8,
+    "one_hour_instabuy": 610.3214285714286,
+    "coins_per_hour": 4643913.9
+  },
+  {
+    "product_id": "PERFECT_CITRINE_GEM",
+    "buy_price": 11018498.1,
+    "sell_price": 10000005.1,
+    "one_hour_instabuy": 8.970238095238095,
+    "coins_per_hour": 4632634.3
+  },
+  {
+    "product_id": "SHARD_GLACITE_WALKER",
+    "buy_price": 9715.1,
+    "sell_price": 8629.6,
+    "one_hour_instabuy": 6300.630952380952,
+    "coins_per_hour": 4632319.4
+  },
+  {
+    "product_id": "CORRUPT_SOIL",
+    "buy_price": 401999.6,
+    "sell_price": 275239.5,
+    "one_hour_instabuy": 76.23214285714286,
+    "coins_per_hour": 4549548.8
+  },
+  {
+    "product_id": "SHARD_MOSSYBIT",
+    "buy_price": 33899.7,
+    "sell_price": 2653.3,
+    "one_hour_instabuy": 271.54761904761904,
+    "coins_per_hour": 4545512.4
+  },
+  {
+    "product_id": "TREASURITE",
+    "buy_price": 71998.7,
+    "sell_price": 62800.5,
+    "one_hour_instabuy": 599.2678571428571,
+    "coins_per_hour": 4541389.2
+  },
+  {
+    "product_id": "ENCHANTMENT_SNIPE_4",
+    "buy_price": 40610013.9,
+    "sell_price": 25220514.5,
+    "one_hour_instabuy": 0.6666666666666666,
+    "coins_per_hour": 4480596.7
+  },
+  {
+    "product_id": "ENCHANTED_COOKED_RABBIT",
+    "buy_price": 136117.8,
+    "sell_price": 100805.2,
+    "one_hour_instabuy": 137.92857142857142,
+    "coins_per_hour": 4448189.5
+  },
+  {
+    "product_id": "SHARD_SALMON",
+    "buy_price": 6950.1,
+    "sell_price": 4777.0,
+    "one_hour_instabuy": 3161.4761904761904,
+    "coins_per_hour": 4441471.7
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_SOUL_EATER_5",
+    "buy_price": 16989995.4,
+    "sell_price": 11000001.7,
+    "one_hour_instabuy": 5.303571428571429,
+    "coins_per_hour": 4439444.1
+  },
+  {
+    "product_id": "ENCHANTED_COBBLESTONE",
+    "buy_price": 470.9,
+    "sell_price": 305.2,
+    "one_hour_instabuy": 28291.464285714286,
+    "coins_per_hour": 4388140.5
+  },
+  {
+    "product_id": "DRAGON_CLAW",
+    "buy_price": 1000000.0,
+    "sell_price": 700005.1,
+    "one_hour_instabuy": 26.053571428571427,
+    "coins_per_hour": 4375499.9
+  },
+  {
+    "product_id": "SHARD_PHANPYRE",
+    "buy_price": 58150.6,
+    "sell_price": 41528.7,
+    "one_hour_instabuy": 615.6547619047619,
+    "coins_per_hour": 4374012.9
+  },
+  {
+    "product_id": "COMPACTED_MOONFLOWER",
+    "buy_price": 104119.5,
+    "sell_price": 100219.5,
+    "one_hour_instabuy": 3024.2916666666665,
+    "coins_per_hour": 4365291.7
+  },
+  {
+    "product_id": "ENCHANTMENT_THUNDERLORD_7",
+    "buy_price": 5968287.6,
+    "sell_price": 3195925.4,
+    "one_hour_instabuy": 3.1964285714285716,
+    "coins_per_hour": 4349684.4
+  },
+  {
+    "product_id": "ENDSTONE_IDOL",
+    "buy_price": 66599999.8,
+    "sell_price": 53010474.0,
+    "one_hour_instabuy": 1.0654761904761905,
+    "coins_per_hour": 4318223.5
+  },
+  {
+    "product_id": "ENCHANTED_COOKIE",
+    "buy_price": 76868.5,
+    "sell_price": 72501.6,
+    "one_hour_instabuy": 3077.309523809524,
+    "coins_per_hour": 4289946.6
+  },
+  {
+    "product_id": "GOLEM_POPPY",
+    "buy_price": 386877.5,
+    "sell_price": 284779.0,
+    "one_hour_instabuy": 45.79761904761905,
+    "coins_per_hour": 4277211.7
+  },
+  {
+    "product_id": "ENCHANTED_GOLDEN_CARROT",
+    "buy_price": 78661.4,
+    "sell_price": 75501.9,
+    "one_hour_instabuy": 5458.738095238095,
+    "coins_per_hour": 4269321.6
+  },
+  {
+    "product_id": "DARK_ORB",
+    "buy_price": 269998.6,
+    "sell_price": 92007.0,
+    "one_hour_instabuy": 30.785714285714285,
+    "coins_per_hour": 4255959.9
+  },
+  {
+    "product_id": "ENCHANTED_POPPY",
+    "buy_price": 27077.1,
+    "sell_price": 1873.5,
+    "one_hour_instabuy": 172.5297619047619,
+    "coins_per_hour": 4243260.0
+  },
+  {
+    "product_id": "ENCHANTMENT_HARDENED_MANA_5",
+    "buy_price": 441981.5,
+    "sell_price": 220005.5,
+    "one_hour_instabuy": 19.952380952380953,
+    "coins_per_hour": 4230531.6
+  },
+  {
+    "product_id": "CROPIE",
+    "buy_price": 23835.0,
+    "sell_price": 22115.3,
+    "one_hour_instabuy": 3561.904761904762,
+    "coins_per_hour": 4215202.6
+  },
+  {
+    "product_id": "DUNG",
+    "buy_price": 9554.8,
+    "sell_price": 7684.5,
+    "one_hour_instabuy": 2543.7023809523807,
+    "coins_per_hour": 4210633.8
+  },
+  {
+    "product_id": "EXPORTABLE_CARROTS",
+    "buy_price": 13118.8,
+    "sell_price": 10612.3,
+    "one_hour_instabuy": 1901.095238095238,
+    "coins_per_hour": 4203943.2
+  },
+  {
+    "product_id": "MECHAMIND_GARDEN_CHIP",
+    "buy_price": 1235092.8,
+    "sell_price": 1034908.0,
+    "one_hour_instabuy": 56.125,
+    "coins_per_hour": 4189819.3
+  },
+  {
+    "product_id": "FLAWLESS_PERIDOT_GEM",
+    "buy_price": 4267861.0,
+    "sell_price": 4089875.8,
+    "one_hour_instabuy": 141.07738095238096,
+    "coins_per_hour": 4188168.1
+  },
+  {
+    "product_id": "FLAWLESS_AQUAMARINE_GEM",
+    "buy_price": 1418341.3,
+    "sell_price": 1259017.9,
+    "one_hour_instabuy": 34.035714285714285,
+    "coins_per_hour": 4175734.7
+  },
+  {
+    "product_id": "CHEESE_FUEL",
+    "buy_price": 8676.4,
+    "sell_price": 7780.0,
+    "one_hour_instabuy": 6293.125,
+    "coins_per_hour": 4146692.6
+  },
+  {
+    "product_id": "ESSENCE_UNDEAD",
+    "buy_price": 668.4,
+    "sell_price": 631.2,
+    "one_hour_instabuy": 186311.19047619047,
+    "coins_per_hour": 4128842.3
+  },
+  {
+    "product_id": "ENCHANTED_COMPOST",
+    "buy_price": 3121076.4,
+    "sell_price": 2931535.0,
+    "one_hour_instabuy": 272.9166666666667,
+    "coins_per_hour": 4124965.4
+  },
+  {
+    "product_id": "REVENANT_VISCERA",
+    "buy_price": 73016.8,
+    "sell_price": 62083.0,
+    "one_hour_instabuy": 2062.160714285714,
+    "coins_per_hour": 4120523.9
+  },
+  {
+    "product_id": "PUMPKIN_GUTS",
+    "buy_price": 500509.2,
+    "sell_price": 361302.6,
+    "one_hour_instabuy": 47.535714285714285,
+    "coins_per_hour": 4097290.9
+  },
+  {
+    "product_id": "HYPERCHARGE_GARDEN_CHIP",
+    "buy_price": 62177.8,
+    "sell_price": 39620.2,
+    "one_hour_instabuy": 211.83333333333334,
+    "coins_per_hour": 4064718.1
+  },
+  {
+    "product_id": "SHARD_VERDANT",
+    "buy_price": 3996.4,
+    "sell_price": 2500.1,
+    "one_hour_instabuy": 2867.4464285714284,
+    "coins_per_hour": 4032722.2
+  },
+  {
+    "product_id": "FESTERING_MAGGOT",
+    "buy_price": 1570121.9,
+    "sell_price": 915833.6,
+    "one_hour_instabuy": 6.494047619047619,
+    "coins_per_hour": 4019559.3
+  },
+  {
+    "product_id": "SHARD_JOYDIVE",
+    "buy_price": 64323.0,
+    "sell_price": 51000.0,
+    "one_hour_instabuy": 473.30357142857144,
+    "coins_per_hour": 3996820.2
+  },
+  {
+    "product_id": "ENCHANTMENT_FIRST_STRIKE_5",
+    "buy_price": 92899999.7,
+    "sell_price": 67883594.9,
+    "one_hour_instabuy": 0.9583333333333334,
+    "coins_per_hour": 3957491.0
+  },
+  {
+    "product_id": "GOLDEN_BOUNTY",
+    "buy_price": 45799998.1,
+    "sell_price": 25238561.5,
+    "one_hour_instabuy": 0.8988095238095238,
+    "coins_per_hour": 3952689.6
+  },
+  {
+    "product_id": "MOLTEN_POWDER",
+    "buy_price": 369994.8,
+    "sell_price": 339961.0,
+    "one_hour_instabuy": 854.8928571428571,
+    "coins_per_hour": 3936937.9
+  },
+  {
+    "product_id": "ENCHANTED_EYE_OF_ENDER",
+    "buy_price": 8799.2,
+    "sell_price": 7253.0,
+    "one_hour_instabuy": 3392.4166666666665,
+    "coins_per_hour": 3922816.8
+  },
+  {
+    "product_id": "SHARD_ALLIGATOR",
+    "buy_price": 1499999.3,
+    "sell_price": 394500.7,
+    "one_hour_instabuy": 49.0,
+    "coins_per_hour": 3916986.0
+  },
+  {
+    "product_id": "KADA_LEAD",
+    "buy_price": 13799.4,
+    "sell_price": 8709.8,
+    "one_hour_instabuy": 831.2857142857143,
+    "coins_per_hour": 3914150.9
+  },
+  {
+    "product_id": "SHARD_ENDSTONE_PROTECTOR",
+    "buy_price": 487683.9,
+    "sell_price": 376849.1,
+    "one_hour_instabuy": 40.083333333333336,
+    "coins_per_hour": 3878565.3
+  },
+  {
+    "product_id": "SHARD_SYCOPHANT",
+    "buy_price": 39929.8,
+    "sell_price": 12319.4,
+    "one_hour_instabuy": 378.25,
+    "coins_per_hour": 3878325.0
+  },
+  {
+    "product_id": "SHARD_PHANFLARE",
+    "buy_price": 68353.4,
+    "sell_price": 45569.5,
+    "one_hour_instabuy": 418.07142857142856,
+    "coins_per_hour": 3876247.4
+  },
+  {
+    "product_id": "TOXIC_ARROW_POISON",
+    "buy_price": 6005.6,
+    "sell_price": 5482.4,
+    "one_hour_instabuy": 16883.375,
+    "coins_per_hour": 3807936.9
+  },
+  {
+    "product_id": "XXLARGE_ENCHANTED_CHEST",
+    "buy_price": 4980680.7,
+    "sell_price": 3036020.8,
+    "one_hour_instabuy": 10.226190476190476,
+    "coins_per_hour": 3785180.5
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1",
+    "buy_price": 2199998.8,
+    "sell_price": 1192542.7,
+    "one_hour_instabuy": 5.7023809523809526,
+    "coins_per_hour": 3769101.2
+  },
+  {
+    "product_id": "PET_ITEM_EXP_SHARE_DROP",
+    "buy_price": 3499999.8,
+    "sell_price": 2272779.1,
+    "one_hour_instabuy": 4.571428571428571,
+    "coins_per_hour": 3766710.5
+  },
+  {
+    "product_id": "FOURTH_MASTER_STAR",
+    "buy_price": 65631367.7,
+    "sell_price": 63000000.1,
+    "one_hour_instabuy": 5.470238095238095,
+    "coins_per_hour": 3704540.0
+  },
+  {
+    "product_id": "ENCHANTMENT_VICIOUS_5",
+    "buy_price": 40999997.3,
+    "sell_price": 34000000.5,
+    "one_hour_instabuy": 1.8214285714285714,
+    "coins_per_hour": 3689908.8
+  },
+  {
+    "product_id": "REFINED_DARK_CACAO_TRUFFLE",
+    "buy_price": 3339985.7,
+    "sell_price": 2448547.4,
+    "one_hour_instabuy": 14.839285714285714,
+    "coins_per_hour": 3687875.4
+  },
+  {
+    "product_id": "CONDENSED_FERMENTO",
+    "buy_price": 2499995.8,
+    "sell_price": 2250070.9,
+    "one_hour_instabuy": 70.67857142857143,
+    "coins_per_hour": 3674060.8
+  },
+  {
+    "product_id": "HEAVY_PEARL",
+    "buy_price": 319353.0,
+    "sell_price": 300000.1,
+    "one_hour_instabuy": 520.2440476190476,
+    "coins_per_hour": 3673196.1
+  },
+  {
+    "product_id": "JELLY",
+    "buy_price": 18997.3,
+    "sell_price": 17091.6,
+    "one_hour_instabuy": 2479.7440476190477,
+    "coins_per_hour": 3665708.3
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_REFRIGERATE_1",
+    "buy_price": 2907498.6,
+    "sell_price": 2327342.9,
+    "one_hour_instabuy": 13.148809523809524,
+    "coins_per_hour": 3664437.1
+  },
+  {
+    "product_id": "ENCHANTED_DARK_OAK_LOG",
+    "buy_price": 2346.7,
+    "sell_price": 1939.3,
+    "one_hour_instabuy": 10313.535714285714,
+    "coins_per_hour": 3657172.0
+  },
+  {
+    "product_id": "THIRD_MASTER_STAR",
+    "buy_price": 30198999.9,
+    "sell_price": 28670937.4,
+    "one_hour_instabuy": 8.25,
+    "coins_per_hour": 3631741.8
+  },
+  {
+    "product_id": "ENCHANTED_UMBER",
+    "buy_price": 16244.1,
+    "sell_price": 14400.8,
+    "one_hour_instabuy": 2452.0773809523807,
+    "coins_per_hour": 3623699.0
+  },
+  {
+    "product_id": "SHARD_DRAGONFLY",
+    "buy_price": 1199997.7,
+    "sell_price": 505000.5,
+    "one_hour_instabuy": 64.43452380952381,
+    "coins_per_hour": 3622294.6
+  },
+  {
+    "product_id": "PERFECT_SAPPHIRE_GEM",
+    "buy_price": 16891808.5,
+    "sell_price": 15802485.2,
+    "one_hour_instabuy": 18.601190476190474,
+    "coins_per_hour": 3622279.9
+  },
+  {
+    "product_id": "YOUNG_FRAGMENT",
+    "buy_price": 10884.4,
+    "sell_price": 9206.5,
+    "one_hour_instabuy": 2517.035714285714,
+    "coins_per_hour": 3606914.7
+  },
+  {
+    "product_id": "SECOND_MASTER_STAR",
+    "buy_price": 18592192.2,
+    "sell_price": 17506312.8,
+    "one_hour_instabuy": 11.619047619047619,
+    "coins_per_hour": 3600029.2
+  },
+  {
+    "product_id": "ENCHANTED_JUNGLE_LOG",
+    "buy_price": 1097.8,
+    "sell_price": 762.3,
+    "one_hour_instabuy": 11551.27380952381,
+    "coins_per_hour": 3590130.1
+  },
+  {
+    "product_id": "FLAWLESS_TOPAZ_GEM",
+    "buy_price": 2545958.4,
+    "sell_price": 2205537.7,
+    "one_hour_instabuy": 23.333333333333332,
+    "coins_per_hour": 3588082.7
+  },
+  {
+    "product_id": "SLIME_BALL",
+    "buy_price": 52.0,
+    "sell_price": 32.8,
+    "one_hour_instabuy": 198025.49404761905,
+    "coins_per_hour": 3570399.7
+  },
+  {
+    "product_id": "ENCHANTED_FLINT",
+    "buy_price": 1258.5,
+    "sell_price": 906.7,
+    "one_hour_instabuy": 11003.94642857143,
+    "coins_per_hour": 3559597.9
+  },
+  {
+    "product_id": "PHANTOMLEAF",
+    "buy_price": 631401.7,
+    "sell_price": 180226.7,
+    "one_hour_instabuy": 10.654761904761905,
+    "coins_per_hour": 3513954.7
+  },
+  {
+    "product_id": "GLOSSY_GEMSTONE",
+    "buy_price": 1458698.6,
+    "sell_price": 1395168.1,
+    "one_hour_instabuy": 266.0297619047619,
+    "coins_per_hour": 3478613.9
+  },
+  {
+    "product_id": "SHARD_LAPIS_ZOMBIE",
+    "buy_price": 11889.0,
+    "sell_price": 9102.0,
+    "one_hour_instabuy": 2413.4821428571427,
+    "coins_per_hour": 3475436.8
+  },
+  {
+    "product_id": "JUNGLE_KEY",
+    "buy_price": 144631.9,
+    "sell_price": 127024.1,
+    "one_hour_instabuy": 338.17857142857144,
+    "coins_per_hour": 3474250.4
+  },
+  {
+    "product_id": "ENCHANTED_LEATHER",
+    "buy_price": 1381.9,
+    "sell_price": 1001.9,
+    "one_hour_instabuy": 9955.541666666666,
+    "coins_per_hour": 3473560.7
+  },
+  {
+    "product_id": "AGARIMOO_TONGUE",
+    "buy_price": 10341.7,
+    "sell_price": 6577.6,
+    "one_hour_instabuy": 975.3333333333334,
+    "coins_per_hour": 3444303.6
+  },
+  {
+    "product_id": "FINE_RUBY_GEM",
+    "buy_price": 24241.3,
+    "sell_price": 21070.8,
+    "one_hour_instabuy": 1298.6845238095239,
+    "coins_per_hour": 3409138.8
+  },
+  {
+    "product_id": "FLAWLESS_JADE_GEM",
+    "buy_price": 2415956.4,
+    "sell_price": 2235249.0,
+    "one_hour_instabuy": 38.82738095238095,
+    "coins_per_hour": 3402381.4
+  },
+  {
+    "product_id": "SHARD_SCARF",
+    "buy_price": 533688.9,
+    "sell_price": 441001.1,
+    "one_hour_instabuy": 63.94642857142857,
+    "coins_per_hour": 3398636.6
+  },
+  {
+    "product_id": "ENCHANTMENT_LETHALITY_6",
+    "buy_price": 270255.1,
+    "sell_price": 65000.0,
+    "one_hour_instabuy": 21.375,
+    "coins_per_hour": 3372922.9
+  },
+  {
+    "product_id": "DIVAN_FRAGMENT",
+    "buy_price": 623845.5,
+    "sell_price": 552384.2,
+    "one_hour_instabuy": 58.476190476190474,
+    "coins_per_hour": 3357982.2
+  },
+  {
+    "product_id": "ENCHANTED_PORK",
+    "buy_price": 1789.3,
+    "sell_price": 1500.6,
+    "one_hour_instabuy": 13459.982142857143,
+    "coins_per_hour": 3344008.1
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_SWARM_1",
+    "buy_price": 752267.9,
+    "sell_price": 652011.1,
+    "one_hour_instabuy": 39.976190476190474,
+    "coins_per_hour": 3331246.8
+  },
+  {
+    "product_id": "BLUE_RING",
+    "buy_price": 449183.3,
+    "sell_price": 388246.7,
+    "one_hour_instabuy": 96.33333333333333,
+    "coins_per_hour": 3264615.7
+  },
+  {
+    "product_id": "ENCHANTMENT_LUCK_7",
+    "buy_price": 32664998.2,
+    "sell_price": 23752592.6,
+    "one_hour_instabuy": 0.875,
+    "coins_per_hour": 3261242.2
+  },
+  {
+    "product_id": "ENCHANTED_SLIME_BLOCK",
+    "buy_price": 127092.3,
+    "sell_price": 122433.3,
+    "one_hour_instabuy": 1791.172619047619,
+    "coins_per_hour": 3223077.7
+  },
+  {
+    "product_id": "FINE_TOPAZ_GEM",
+    "buy_price": 28425.9,
+    "sell_price": 22506.1,
+    "one_hour_instabuy": 607.2261904761905,
+    "coins_per_hour": 3206286.2
+  },
+  {
+    "product_id": "GOLDEN_FRAGMENT",
+    "buy_price": 8697444.2,
+    "sell_price": 7676461.6,
+    "one_hour_instabuy": 22.696428571428573,
+    "coins_per_hour": 3197999.2
+  },
+  {
+    "product_id": "RED_GIFT",
+    "buy_price": 22429.3,
+    "sell_price": 20002.6,
+    "one_hour_instabuy": 1662.3988095238096,
+    "coins_per_hour": 3195198.3
+  },
+  {
+    "product_id": "WARTY",
+    "buy_price": 26998.7,
+    "sell_price": 22252.5,
+    "one_hour_instabuy": 921.0952380952381,
+    "coins_per_hour": 3127943.2
+  },
+  {
+    "product_id": "ENCHANTMENT_SCAVENGER_5",
+    "buy_price": 613468.6,
+    "sell_price": 100001.4,
+    "one_hour_instabuy": 15.696428571428571,
+    "coins_per_hour": 3122901.0
+  },
+  {
+    "product_id": "SOUL_FRAGMENT",
+    "buy_price": 499997.7,
+    "sell_price": 369112.4,
+    "one_hour_instabuy": 56.06547619047619,
+    "coins_per_hour": 3103398.0
+  },
+  {
+    "product_id": "ARACHNE_FANG",
+    "buy_price": 700332.5,
+    "sell_price": 490488.0,
+    "one_hour_instabuy": 15.898809523809524,
+    "coins_per_hour": 3085752.5
+  },
+  {
+    "product_id": "ENCHANTMENT_MANA_VAMPIRE_5",
+    "buy_price": 967670.8,
+    "sell_price": 827102.4,
+    "one_hour_instabuy": 28.0,
+    "coins_per_hour": 3083034.0
+  },
+  {
+    "product_id": "FLEXBONE",
+    "buy_price": 673536.6,
+    "sell_price": 621178.5,
+    "one_hour_instabuy": 115.32142857142857,
+    "coins_per_hour": 3057332.7
+  },
+  {
+    "product_id": "ENCHANTED_HAY_BALE",
+    "buy_price": 153469.5,
+    "sell_price": 148309.4,
+    "one_hour_instabuy": 1789.7916666666667,
+    "coins_per_hour": 3055239.3
+  },
+  {
+    "product_id": "SHARD_ZOMBIE_SOLDIER",
+    "buy_price": 11773.2,
+    "sell_price": 7502.8,
+    "one_hour_instabuy": 760.8869047619048,
+    "coins_per_hour": 3047734.8
+  },
+  {
+    "product_id": "DUSTGRAIN",
+    "buy_price": 7035.0,
+    "sell_price": 1302.4,
+    "one_hour_instabuy": 599.3392857142857,
+    "coins_per_hour": 3039792.1
+  },
+  {
+    "product_id": "SHARD_BARBARIAN_DUKE_X",
+    "buy_price": 185243.6,
+    "sell_price": 148975.0,
+    "one_hour_instabuy": 227.11309523809524,
+    "coins_per_hour": 3021088.6
+  },
+  {
+    "product_id": "WISE_FRAGMENT",
+    "buy_price": 49186.8,
+    "sell_price": 40113.6,
+    "one_hour_instabuy": 378.1547619047619,
+    "coins_per_hour": 3012568.8
+  },
+  {
+    "product_id": "ENCHANTMENT_CULTIVATING_1",
+    "buy_price": 3822536.8,
+    "sell_price": 3565448.0,
+    "one_hour_instabuy": 34.86309523809524,
+    "coins_per_hour": 3005131.9
+  },
+  {
+    "product_id": "TOOL_EXP_CAPSULE",
+    "buy_price": 102377.7,
+    "sell_price": 96833.5,
+    "one_hour_instabuy": 926.2380952380952,
+    "coins_per_hour": 3001661.4
+  },
+  {
+    "product_id": "ENCHANTED_SAND",
+    "buy_price": 936.1,
+    "sell_price": 584.2,
+    "one_hour_instabuy": 9069.797619047618,
+    "coins_per_hour": 3000631.4
+  },
+  {
+    "product_id": "ENCHANTED_GRILLED_PORK",
+    "buy_price": 167364.7,
+    "sell_price": 154713.7,
+    "one_hour_instabuy": 689.3988095238095,
+    "coins_per_hour": 2994820.2
+  },
+  {
+    "product_id": "CRUDE_GABAGOOL_DISTILLATE",
+    "buy_price": 13877.2,
+    "sell_price": 11253.5,
+    "one_hour_instabuy": 1294.047619047619,
+    "coins_per_hour": 2991143.2
+  },
+  {
+    "product_id": "ASHWREATH",
+    "buy_price": 2406.0,
+    "sell_price": 1419.3,
+    "one_hour_instabuy": 3175.7023809523807,
+    "coins_per_hour": 2961548.9
+  },
+  {
+    "product_id": "MAGMA_CORE",
+    "buy_price": 429999.7,
+    "sell_price": 320002.5,
+    "one_hour_instabuy": 36.86904761904762,
+    "coins_per_hour": 2955325.0
+  },
+  {
+    "product_id": "SHARD_THORN",
+    "buy_price": 159630.7,
+    "sell_price": 129122.3,
+    "one_hour_instabuy": 110.98809523809524,
+    "coins_per_hour": 2949622.7
+  },
+  {
+    "product_id": "PURPLE_CANDY",
+    "buy_price": 21467.4,
+    "sell_price": 20058.4,
+    "one_hour_instabuy": 3179.1309523809523,
+    "coins_per_hour": 2943822.8
+  },
+  {
+    "product_id": "SHARD_TANK_ZOMBIE",
+    "buy_price": 46249.1,
+    "sell_price": 33008.1,
+    "one_hour_instabuy": 279.19642857142856,
+    "coins_per_hour": 2941312.0
+  },
+  {
+    "product_id": "ENCHANTED_TITANIUM",
+    "buy_price": 17025.8,
+    "sell_price": 16110.0,
+    "one_hour_instabuy": 5722.297619047619,
+    "coins_per_hour": 2930001.6
+  },
+  {
+    "product_id": "BUSTED_BELT_BUCKLE",
+    "buy_price": 140545.9,
+    "sell_price": 115143.2,
+    "one_hour_instabuy": 160.92261904761904,
+    "coins_per_hour": 2883576.0
+  },
+  {
+    "product_id": "FINE_AMETHYST_GEM",
+    "buy_price": 31532.1,
+    "sell_price": 28422.2,
+    "one_hour_instabuy": 1199.2857142857142,
+    "coins_per_hour": 2878798.7
+  },
+  {
+    "product_id": "MAGMA_FISH_GOLD",
+    "buy_price": 475312.4,
+    "sell_price": 388506.3,
+    "one_hour_instabuy": 104.58928571428571,
+    "coins_per_hour": 2851012.6
+  },
+  {
+    "product_id": "KUUDRA_TEETH",
+    "buy_price": 12713.5,
+    "sell_price": 10150.8,
+    "one_hour_instabuy": 1249.6964285714287,
+    "coins_per_hour": 2845116.7
+  },
+  {
+    "product_id": "SULPHURIC_COAL",
+    "buy_price": 8442.5,
+    "sell_price": 6482.3,
+    "one_hour_instabuy": 1989.9940476190477,
+    "coins_per_hour": 2833844.1
+  },
+  {
+    "product_id": "FLAWLESS_OPAL_GEM",
+    "buy_price": 2873537.1,
+    "sell_price": 2209367.5,
+    "one_hour_instabuy": 8.964285714285714,
+    "coins_per_hour": 2819148.0
+  },
+  {
+    "product_id": "SOWLEDGE_GARDEN_CHIP",
+    "buy_price": 380189.0,
+    "sell_price": 300001.3,
+    "one_hour_instabuy": 158.29166666666666,
+    "coins_per_hour": 2818435.0
+  },
+  {
+    "product_id": "GOBLIN_EGG_BLUE",
+    "buy_price": 1136214.6,
+    "sell_price": 989726.5,
+    "one_hour_instabuy": 23.196428571428573,
+    "coins_per_hour": 2804988.0
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_WISDOM_5",
+    "buy_price": 2865387.1,
+    "sell_price": 2109202.8,
+    "one_hour_instabuy": 39.18452380952381,
+    "coins_per_hour": 2803908.4
+  },
+  {
+    "product_id": "ENCHANTMENT_COMPACT_1",
+    "buy_price": 3910581.9,
+    "sell_price": 3146062.3,
+    "one_hour_instabuy": 6.541666666666667,
+    "coins_per_hour": 2794719.4
+  },
+  {
+    "product_id": "GLACITE_JEWEL",
+    "buy_price": 57521.3,
+    "sell_price": 53139.4,
+    "one_hour_instabuy": 902.8452380952381,
+    "coins_per_hour": 2787688.8
+  },
+  {
+    "product_id": "SHARD_TAURUS",
+    "buy_price": 47211.2,
+    "sell_price": 20918.0,
+    "one_hour_instabuy": 256.07142857142856,
+    "coins_per_hour": 2784865.9
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_WISE_2",
+    "buy_price": 399999.4,
+    "sell_price": 190008.1,
+    "one_hour_instabuy": 13.845238095238095,
+    "coins_per_hour": 2782772.6
+  },
+  {
+    "product_id": "ENCHANTED_STRING",
+    "buy_price": 667.2,
+    "sell_price": 506.5,
+    "one_hour_instabuy": 19078.958333333332,
+    "coins_per_hour": 2779575.3
+  },
+  {
+    "product_id": "GLASSCORN",
+    "buy_price": 5010496.4,
+    "sell_price": 3500000.2,
+    "one_hour_instabuy": 3.0892857142857144,
+    "coins_per_hour": 2778880.1
+  },
+  {
+    "product_id": "CHOCOBERRY",
+    "buy_price": 355243.3,
+    "sell_price": 309713.7,
+    "one_hour_instabuy": 180.07738095238096,
+    "coins_per_hour": 2772124.5
+  },
+  {
+    "product_id": "FIRST_MASTER_STAR",
+    "buy_price": 12002151.7,
+    "sell_price": 11410796.6,
+    "one_hour_instabuy": 15.119047619047619,
+    "coins_per_hour": 2763620.0
+  },
+  {
+    "product_id": "SHARD_CROW",
+    "buy_price": 224748.3,
+    "sell_price": 145821.1,
+    "one_hour_instabuy": 265.57738095238096,
+    "coins_per_hour": 2746394.6
+  },
+  {
+    "product_id": "HALF_EATEN_MUSHROOM",
+    "buy_price": 2339.2,
+    "sell_price": 1380.6,
+    "one_hour_instabuy": 3017.2440476190477,
+    "coins_per_hour": 2733526.6
+  },
+  {
+    "product_id": "SHARD_DAEMON",
+    "buy_price": 1298877.7,
+    "sell_price": 1079459.6,
+    "one_hour_instabuy": 80.71428571428571,
+    "coins_per_hour": 2727236.8
+  },
+  {
+    "product_id": "BROKEN_RADAR",
+    "buy_price": 758542.6,
+    "sell_price": 670923.3,
+    "one_hour_instabuy": 38.61904761904762,
+    "coins_per_hour": 2724654.6
+  },
+  {
+    "product_id": "OBSIDIAN_TABLET",
+    "buy_price": 2756994.5,
+    "sell_price": 750003.4,
+    "one_hour_instabuy": 3.2142857142857144,
+    "coins_per_hour": 2720626.8
+  },
+  {
+    "product_id": "ENCHANTMENT_VAMPIRISM_6",
+    "buy_price": 1889999.8,
+    "sell_price": 1235004.6,
+    "one_hour_instabuy": 10.672619047619047,
+    "coins_per_hour": 2712368.0
+  },
+  {
+    "product_id": "ENCHANTED_MUTTON",
+    "buy_price": 1154.9,
+    "sell_price": 963.2,
+    "one_hour_instabuy": 16243.880952380952,
+    "coins_per_hour": 2691850.7
+  },
+  {
+    "product_id": "SHARD_PANDARAI",
+    "buy_price": 399996.2,
+    "sell_price": 160654.2,
+    "one_hour_instabuy": 99.57142857142857,
+    "coins_per_hour": 2681840.0
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_FLASH_1",
+    "buy_price": 5604691.5,
+    "sell_price": 4900011.3,
+    "one_hour_instabuy": 7.494047619047619,
+    "coins_per_hour": 2669019.9
+  },
+  {
+    "product_id": "CROPSHOT_GARDEN_CHIP",
+    "buy_price": 899998.1,
+    "sell_price": 706337.9,
+    "one_hour_instabuy": 158.48214285714286,
+    "coins_per_hour": 2655860.4
+  },
+  {
+    "product_id": "LEATHER_CLOTH",
+    "buy_price": 52227.8,
+    "sell_price": 31323.2,
+    "one_hour_instabuy": 134.58928571428572,
+    "coins_per_hour": 2655375.9
+  },
+  {
+    "product_id": "SHARD_SHINYFISH",
+    "buy_price": 226923.9,
+    "sell_price": 199250.3,
+    "one_hour_instabuy": 736.2619047619048,
+    "coins_per_hour": 2631971.1
+  },
+  {
+    "product_id": "RAREFINDER_GARDEN_CHIP",
+    "buy_price": 1007097.1,
+    "sell_price": 956576.8,
+    "one_hour_instabuy": 94.03571428571429,
+    "coins_per_hour": 2619892.9
+  },
+  {
+    "product_id": "ALLIGATOR_SKIN",
+    "buy_price": 464517.5,
+    "sell_price": 417156.8,
+    "one_hour_instabuy": 70.96428571428571,
+    "coins_per_hour": 2619224.8
+  },
+  {
+    "product_id": "ENCHANTMENT_CRITICAL_7",
+    "buy_price": 99999999.0,
+    "sell_price": 89321375.7,
+    "one_hour_instabuy": 1.1130952380952381,
+    "coins_per_hour": 2608859.6
+  },
+  {
+    "product_id": "SHARD_KING_COBRA",
+    "buy_price": 284619.6,
+    "sell_price": 170000.2,
+    "one_hour_instabuy": 212.14880952380952,
+    "coins_per_hour": 2597171.0
+  },
+  {
+    "product_id": "BLUE_ICE_HUNK",
+    "buy_price": 142296.0,
+    "sell_price": 125883.5,
+    "one_hour_instabuy": 195.125,
+    "coins_per_hour": 2577765.2
+  },
+  {
+    "product_id": "ENCHANTED_MANGROVE_LOG",
+    "buy_price": 1597.9,
+    "sell_price": 1300.3,
+    "one_hour_instabuy": 9847.797619047618,
+    "coins_per_hour": 2576649.2
+  },
+  {
+    "product_id": "MAGMA_FISH_SILVER",
+    "buy_price": 5988.6,
+    "sell_price": 4611.3,
+    "one_hour_instabuy": 2073.2261904761904,
+    "coins_per_hour": 2576100.7
+  },
+  {
+    "product_id": "ENCHANTMENT_REJUVENATE_1",
+    "buy_price": 42397.3,
+    "sell_price": 21688.7,
+    "one_hour_instabuy": 130.26785714285714,
+    "coins_per_hour": 2573397.3
+  },
+  {
+    "product_id": "ECCENTRIC_PAINTING",
+    "buy_price": 7220115.1,
+    "sell_price": 6110006.2,
+    "one_hour_instabuy": 6.809523809523809,
+    "coins_per_hour": 2555287.6
+  },
+  {
+    "product_id": "LAVA_SHELL",
+    "buy_price": 385898.7,
+    "sell_price": 214050.2,
+    "one_hour_instabuy": 16.404761904761905,
+    "coins_per_hour": 2553350.2
+  },
+  {
+    "product_id": "ENCHANTED_RED_SAND",
+    "buy_price": 1449.9,
+    "sell_price": 1201.5,
+    "one_hour_instabuy": 11806.422619047618,
+    "coins_per_hour": 2547557.4
+  },
+  {
+    "product_id": "SHARD_HIDEONRING",
+    "buy_price": 1079999.7,
+    "sell_price": 951402.5,
+    "one_hour_instabuy": 193.72619047619048,
+    "coins_per_hour": 2545348.5
+  },
+  {
+    "product_id": "SHARD_BOREAL_OWL",
+    "buy_price": 349999.8,
+    "sell_price": 197421.0,
+    "one_hour_instabuy": 43.82738095238095,
+    "coins_per_hour": 2527148.6
+  },
+  {
+    "product_id": "DEVOURER",
+    "buy_price": 10936358.8,
+    "sell_price": 9500000.9,
+    "one_hour_instabuy": 3.1726190476190474,
+    "coins_per_hour": 2522280.8
+  },
+  {
+    "product_id": "NULL_BLADE",
+    "buy_price": 23999999.7,
+    "sell_price": 19000001.4,
+    "one_hour_instabuy": 4.619047619047619,
+    "coins_per_hour": 2522022.9
+  },
+  {
+    "product_id": "ENCHANTED_WATER_LILY",
+    "buy_price": 4147.6,
+    "sell_price": 1647.4,
+    "one_hour_instabuy": 1036.4761904761904,
+    "coins_per_hour": 2494672.8
+  },
+  {
+    "product_id": "SNOOZLING",
+    "buy_price": 6830826.1,
+    "sell_price": 6000000.5,
+    "one_hour_instabuy": 18.678571428571427,
+    "coins_per_hour": 2490878.5
+  },
+  {
+    "product_id": "DEEP_SEA_ORB",
+    "buy_price": 3317999.2,
+    "sell_price": 2241112.0,
+    "one_hour_instabuy": 12.416666666666666,
+    "coins_per_hour": 2475752.2
+  },
+  {
+    "product_id": "DO_NOT_EAT_SHROOM",
+    "buy_price": 185507.7,
+    "sell_price": 119002.7,
+    "one_hour_instabuy": 84.3452380952381,
+    "coins_per_hour": 2448349.9
+  },
+  {
+    "product_id": "ESSENCE_FOREST",
+    "buy_price": 756.4,
+    "sell_price": 722.6,
+    "one_hour_instabuy": 162080.94642857142,
+    "coins_per_hour": 2446699.2
+  },
+  {
+    "product_id": "GOLD_BOTTLE_CAP",
+    "buy_price": 16987866.9,
+    "sell_price": 8073132.4,
+    "one_hour_instabuy": 0.9047619047619048,
+    "coins_per_hour": 2437859.3
+  },
+  {
+    "product_id": "FLAWLESS_CITRINE_GEM",
+    "buy_price": 1382262.1,
+    "sell_price": 1270004.5,
+    "one_hour_instabuy": 32.17261904761905,
+    "coins_per_hour": 2421658.0
+  },
+  {
+    "product_id": "FRIED_FEATHER",
+    "buy_price": 28134.3,
+    "sell_price": 24452.5,
+    "one_hour_instabuy": 989.5595238095239,
+    "coins_per_hour": 2409442.2
+  },
+  {
+    "product_id": "MANDRAA",
+    "buy_price": 2355794.4,
+    "sell_price": 1700002.7,
+    "one_hour_instabuy": 7.261904761904762,
+    "coins_per_hour": 2407557.3
+  },
+  {
+    "product_id": "ENCHANTMENT_TURBO_WHEAT_1",
+    "buy_price": 249998.6,
+    "sell_price": 170018.7,
+    "one_hour_instabuy": 32.375,
+    "coins_per_hour": 2407240.9
+  },
+  {
+    "product_id": "VIAL_OF_VENOM",
+    "buy_price": 2367152.0,
+    "sell_price": 1587947.9,
+    "one_hour_instabuy": 5.375,
+    "coins_per_hour": 2402526.2
+  },
+  {
+    "product_id": "VOLCANIC_ROCK",
+    "buy_price": 2233643.7,
+    "sell_price": 2000006.6,
+    "one_hour_instabuy": 13.029761904761905,
+    "coins_per_hour": 2389399.3
+  },
+  {
+    "product_id": "ENCHANTED_PUMPKIN",
+    "buy_price": 1639.8,
+    "sell_price": 1573.7,
+    "one_hour_instabuy": 81077.22619047618,
+    "coins_per_hour": 2367819.9
+  },
+  {
+    "product_id": "TURTLELLINI",
+    "buy_price": 56996.4,
+    "sell_price": 32505.5,
+    "one_hour_instabuy": 101.46428571428571,
+    "coins_per_hour": 2354831.9
+  },
+  {
+    "product_id": "TWILIGHT_ARROW_POISON",
+    "buy_price": 1844.8,
+    "sell_price": 1375.3,
+    "one_hour_instabuy": 6679.196428571428,
+    "coins_per_hour": 2351879.7
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_LEGION_5",
+    "buy_price": 41899997.5,
+    "sell_price": 32911328.7,
+    "one_hour_instabuy": 9.761904761904763,
+    "coins_per_hour": 2346726.3
+  },
+  {
+    "product_id": "VEILSHROOM",
+    "buy_price": 6910.5,
+    "sell_price": 2291.0,
+    "one_hour_instabuy": 524.1071428571429,
+    "coins_per_hour": 2339621.5
+  },
+  {
+    "product_id": "ENCHANTMENT_GIANT_KILLER_7",
+    "buy_price": 82999999.7,
+    "sell_price": 75450001.2,
+    "one_hour_instabuy": 1.0119047619047619,
+    "coins_per_hour": 2333883.3
+  },
+  {
+    "product_id": "GOBLIN_EGG_YELLOW",
+    "buy_price": 16288.6,
+    "sell_price": 9000.5,
+    "one_hour_instabuy": 336.4166666666667,
+    "coins_per_hour": 2328543.8
+  },
+  {
+    "product_id": "TIGER_SHARK_TOOTH",
+    "buy_price": 116417.8,
+    "sell_price": 59000.0,
+    "one_hour_instabuy": 86.78571428571429,
+    "coins_per_hour": 2327627.3
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_CROP_FEVER_1",
+    "buy_price": 1860326.5,
+    "sell_price": 1531628.3,
+    "one_hour_instabuy": 47.958333333333336,
+    "coins_per_hour": 2327167.2
+  },
+  {
+    "product_id": "COMPACTED_SUNFLOWER",
+    "buy_price": 103268.7,
+    "sell_price": 100000.2,
+    "one_hour_instabuy": 2789.8214285714284,
+    "coins_per_hour": 2324452.5
+  },
+  {
+    "product_id": "UNSTABLE_FRAGMENT",
+    "buy_price": 10584.5,
+    "sell_price": 9103.5,
+    "one_hour_instabuy": 1862.1130952380952,
+    "coins_per_hour": 2314324.9
+  },
+  {
+    "product_id": "ENCHANTED_SUGAR",
+    "buy_price": 637.9,
+    "sell_price": 593.3,
+    "one_hour_instabuy": 76465.95238095238,
+    "coins_per_hour": 2312884.8
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4",
+    "buy_price": 118248577.5,
+    "sell_price": 111022580.0,
+    "one_hour_instabuy": 4.196428571428571,
+    "coins_per_hour": 2309877.3
+  },
+  {
+    "product_id": "SHARD_INFERNO_KOI",
+    "buy_price": 182575.9,
+    "sell_price": 18706.5,
+    "one_hour_instabuy": 45.351190476190474,
+    "coins_per_hour": 2308933.2
+  },
+  {
+    "product_id": "COALROOT",
+    "buy_price": 500275.9,
+    "sell_price": 357503.0,
+    "one_hour_instabuy": 75.04761904761905,
+    "coins_per_hour": 2305456.3
+  },
+  {
+    "product_id": "GENERATOR_UPGRADE_STONE_CLAY_12",
+    "buy_price": 14999894.6,
+    "sell_price": 12150003.1,
+    "one_hour_instabuy": 1.6904761904761905,
+    "coins_per_hour": 2303027.7
+  },
+  {
+    "product_id": "SHARD_BAMBULEAF",
+    "buy_price": 70266.7,
+    "sell_price": 59477.4,
+    "one_hour_instabuy": 321.8095238095238,
+    "coins_per_hour": 2283767.8
+  },
+  {
+    "product_id": "ENCHANTED_CACTUS_GREEN",
+    "buy_price": 633.9,
+    "sell_price": 588.4,
+    "one_hour_instabuy": 71669.72023809524,
+    "coins_per_hour": 2238765.0
+  },
+  {
+    "product_id": "RADIOACTIVE_VIAL",
+    "buy_price": 64504626.8,
+    "sell_price": 52316701.9,
+    "one_hour_instabuy": 0.6428571428571429,
+    "coins_per_hour": 2236785.6
+  },
+  {
+    "product_id": "SHARD_SILENTDEPTH",
+    "buy_price": 271052.5,
+    "sell_price": 176008.1,
+    "one_hour_instabuy": 99.5952380952381,
+    "coins_per_hour": 2235290.6
+  },
+  {
+    "product_id": "WET_BOOK",
+    "buy_price": 291042.4,
+    "sell_price": 160028.6,
+    "one_hour_instabuy": 26.154761904761905,
+    "coins_per_hour": 2234449.3
+  },
+  {
+    "product_id": "CHAIN_END_TIMES",
+    "buy_price": 2360000.2,
+    "sell_price": 1100002.8,
+    "one_hour_instabuy": 2.2261904761904763,
+    "coins_per_hour": 2234197.0
+  },
+  {
+    "product_id": "PRICKLY_KISS",
+    "buy_price": 6898.7,
+    "sell_price": 3159.3,
+    "one_hour_instabuy": 741.1904761904761,
+    "coins_per_hour": 2231898.3
+  },
+  {
+    "product_id": "ENCHANTMENT_CHANCE_5",
+    "buy_price": 17908885.9,
+    "sell_price": 13757338.7,
+    "one_hour_instabuy": 1.0595238095238095,
+    "coins_per_hour": 2231307.9
+  },
+  {
+    "product_id": "GREAT_WHITE_SHARK_TOOTH",
+    "buy_price": 1499998.7,
+    "sell_price": 1229215.6,
+    "one_hour_instabuy": 40.458333333333336,
+    "coins_per_hour": 2212309.2
+  },
+  {
+    "product_id": "ZOMBUD",
+    "buy_price": 114029.6,
+    "sell_price": 97459.2,
+    "one_hour_instabuy": 157.57142857142858,
+    "coins_per_hour": 2206745.9
+  },
+  {
+    "product_id": "ENCHANTED_ANCIENT_CLAW",
+    "buy_price": 39998.3,
+    "sell_price": 35100.6,
+    "one_hour_instabuy": 1541.845238095238,
+    "coins_per_hour": 2196781.0
+  },
+  {
+    "product_id": "SHARD_FLAMING_SPIDER",
+    "buy_price": 18238.4,
+    "sell_price": 10300.8,
+    "one_hour_instabuy": 630.9940476190476,
+    "coins_per_hour": 2196429.5
+  },
+  {
+    "product_id": "ENCHANTMENT_DRAGON_HUNTER_6",
+    "buy_price": 10999994.2,
+    "sell_price": 4622642.7,
+    "one_hour_instabuy": 3.8273809523809526,
+    "coins_per_hour": 2189232.7
+  },
+  {
+    "product_id": "ENCHANTMENT_TURBO_SUNFLOWER_1",
+    "buy_price": 509602.3,
+    "sell_price": 413841.2,
+    "one_hour_instabuy": 25.970238095238095,
+    "coins_per_hour": 2189162.5
+  },
+  {
+    "product_id": "SHARD_CINDER_BAT",
+    "buy_price": 85964.4,
+    "sell_price": 65060.1,
+    "one_hour_instabuy": 275.8690476190476,
+    "coins_per_hour": 2186304.1
+  },
+  {
+    "product_id": "SHARD_KADA_KNIGHT",
+    "buy_price": 26569.4,
+    "sell_price": 12302.0,
+    "one_hour_instabuy": 344.94642857142856,
+    "coins_per_hour": 2169152.1
+  },
+  {
+    "product_id": "FINE_FLOUR",
+    "buy_price": 6998.8,
+    "sell_price": 4970.4,
+    "one_hour_instabuy": 2879.3809523809523,
+    "coins_per_hour": 2164339.6
+  },
+  {
+    "product_id": "POLARVOID_BOOK",
+    "buy_price": 2858043.0,
+    "sell_price": 2101763.6,
+    "one_hour_instabuy": 10.273809523809524,
+    "coins_per_hour": 2154179.2
+  },
+  {
+    "product_id": "SHARD_BRUISER",
+    "buy_price": 13342.0,
+    "sell_price": 9719.9,
+    "one_hour_instabuy": 875.8630952380952,
+    "coins_per_hour": 2150320.5
+  },
+  {
+    "product_id": "SHARD_ARACHNE",
+    "buy_price": 129998.7,
+    "sell_price": 80499.7,
+    "one_hour_instabuy": 48.86904761904762,
+    "coins_per_hour": 2149336.0
+  },
+  {
+    "product_id": "ENCHANTED_RED_MUSHROOM",
+    "buy_price": 1600.0,
+    "sell_price": 1532.2,
+    "one_hour_instabuy": 67572.47023809524,
+    "coins_per_hour": 2148804.6
+  },
+  {
+    "product_id": "ENCHANTED_MELON_BLOCK",
+    "buy_price": 50618.7,
+    "sell_price": 49168.5,
+    "one_hour_instabuy": 6872.910714285715,
+    "coins_per_hour": 2139394.5
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_REITERATE_1",
+    "buy_price": 1484975.7,
+    "sell_price": 1350003.7,
+    "one_hour_instabuy": 20.863095238095237,
+    "coins_per_hour": 2118856.9
+  },
+  {
+    "product_id": "JADERALD",
+    "buy_price": 2979939.2,
+    "sell_price": 2768954.1,
+    "one_hour_instabuy": 25.785714285714285,
+    "coins_per_hour": 2108497.9
+  },
+  {
+    "product_id": "SHARD_CROCODILE",
+    "buy_price": 362647.4,
+    "sell_price": 321100.3,
+    "one_hour_instabuy": 153.23809523809524,
+    "coins_per_hour": 2108184.3
+  },
+  {
+    "product_id": "ESSENCE_DRAGON",
+    "buy_price": 3286.2,
+    "sell_price": 3144.1,
+    "one_hour_instabuy": 35419.28571428572,
+    "coins_per_hour": 2094424.1
+  },
+  {
+    "product_id": "STARTLEVINE",
+    "buy_price": 3799999.3,
+    "sell_price": 3200000.5,
+    "one_hour_instabuy": 15.80952380952381,
+    "coins_per_hour": 2082495.2
+  },
+  {
+    "product_id": "PROTECTOR_FRAGMENT",
+    "buy_price": 15284.4,
+    "sell_price": 10000.2,
+    "one_hour_instabuy": 420.5297619047619,
+    "coins_per_hour": 2077543.6
+  },
+  {
+    "product_id": "ECTOPLASM",
+    "buy_price": 194444.4,
+    "sell_price": 174189.8,
+    "one_hour_instabuy": 142.17261904761904,
+    "coins_per_hour": 2049224.7
+  },
+  {
+    "product_id": "NOCTILUME",
+    "buy_price": 2705287.6,
+    "sell_price": 2224544.4,
+    "one_hour_instabuy": 26.720238095238095,
+    "coins_per_hour": 2041888.4
+  },
+  {
+    "product_id": "WITHERBLOOM",
+    "buy_price": 4695.1,
+    "sell_price": 2209.1,
+    "one_hour_instabuy": 857.2678571428571,
+    "coins_per_hour": 2040606.3
+  },
+  {
+    "product_id": "SHARD_FIRE_EEL",
+    "buy_price": 85121.1,
+    "sell_price": 72000.2,
+    "one_hour_instabuy": 412.4107142857143,
+    "coins_per_hour": 2039299.5
+  },
+  {
+    "product_id": "ENCHANTMENT_EXECUTE_6",
+    "buy_price": 39119518.9,
+    "sell_price": 32532036.2,
+    "one_hour_instabuy": 0.7261904761904762,
+    "coins_per_hour": 2038319.1
+  },
+  {
+    "product_id": "SPIRIT_BONE",
+    "buy_price": 4096253.1,
+    "sell_price": 3817633.0,
+    "one_hour_instabuy": 12.696428571428571,
+    "coins_per_hour": 2029911.4
+  },
+  {
+    "product_id": "ETHEREAL_VINE",
+    "buy_price": 20673.8,
+    "sell_price": 19503.8,
+    "one_hour_instabuy": 2879.404761904762,
+    "coins_per_hour": 2029518.2
+  },
+  {
+    "product_id": "SHARD_MOLTENFISH",
+    "buy_price": 724221.1,
+    "sell_price": 350003.8,
+    "one_hour_instabuy": 15.779761904761905,
+    "coins_per_hour": 2026096.0
+  },
+  {
+    "product_id": "SKELETON_KEY",
+    "buy_price": 36664229.6,
+    "sell_price": 35510347.1,
+    "one_hour_instabuy": 41.767857142857146,
+    "coins_per_hour": 2016699.1
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_LAST_STAND_5",
+    "buy_price": 2457070.0,
+    "sell_price": 1782435.4,
+    "one_hour_instabuy": 25.696428571428573,
+    "coins_per_hour": 2016575.8
+  },
+  {
+    "product_id": "HAMSTER_WHEEL",
+    "buy_price": 22636.9,
+    "sell_price": 19309.8,
+    "one_hour_instabuy": 715.5595238095239,
+    "coins_per_hour": 2016282.0
+  },
+  {
+    "product_id": "ENCHANTED_LUSH_BERBERIS",
+    "buy_price": 3782.6,
+    "sell_price": 2953.6,
+    "one_hour_instabuy": 2705.529761904762,
+    "coins_per_hour": 2012620.6
+  },
+  {
+    "product_id": "SCOURROOT",
+    "buy_price": 6948.4,
+    "sell_price": 1398.0,
+    "one_hour_instabuy": 445.82142857142856,
+    "coins_per_hour": 2010507.8
+  },
+  {
+    "product_id": "ENCHANTED_CLAY_BALL",
+    "buy_price": 620.3,
+    "sell_price": 463.1,
+    "one_hour_instabuy": 14022.672619047618,
+    "coins_per_hour": 2008653.2
+  },
+  {
+    "product_id": "SHARD_TERMITE",
+    "buy_price": 110966.5,
+    "sell_price": 93783.3,
+    "one_hour_instabuy": 612.1011904761905,
+    "coins_per_hour": 1996308.7
+  },
+  {
+    "product_id": "ENCHANTED_WHEAT",
+    "buy_price": 951.0,
+    "sell_price": 913.9,
+    "one_hour_instabuy": 126156.27380952382,
+    "coins_per_hour": 1980968.9
+  },
+  {
+    "product_id": "MAGMA_CREAM_DISTILLATE",
+    "buy_price": 68871.9,
+    "sell_price": 5001.4,
+    "one_hour_instabuy": 39.470238095238095,
+    "coins_per_hour": 1980542.8
+  },
+  {
+    "product_id": "SILVER_FANG",
+    "buy_price": 11793.3,
+    "sell_price": 8837.9,
+    "one_hour_instabuy": 3085.0119047619046,
+    "coins_per_hour": 1977203.3
+  },
+  {
+    "product_id": "GOLDEN_POWDER",
+    "buy_price": 144988.9,
+    "sell_price": 15103.3,
+    "one_hour_instabuy": 15.613095238095237,
+    "coins_per_hour": 1976982.4
+  },
+  {
+    "product_id": "FINE_AMBER_GEM",
+    "buy_price": 32463.5,
+    "sell_price": 30098.0,
+    "one_hour_instabuy": 1204.279761904762,
+    "coins_per_hour": 1969083.2
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_WISE_5",
+    "buy_price": 2199998.7,
+    "sell_price": 1754676.8,
+    "one_hour_instabuy": 49.601190476190474,
+    "coins_per_hour": 1955548.8
+  },
+  {
+    "product_id": "ENCHANTMENT_CLEAVE_6",
+    "buy_price": 27929993.5,
+    "sell_price": 21000002.3,
+    "one_hour_instabuy": 0.8571428571428571,
+    "coins_per_hour": 1950484.8
+  },
+  {
+    "product_id": "ENCHANTED_COCOA",
+    "buy_price": 473.9,
+    "sell_price": 433.5,
+    "one_hour_instabuy": 64939.35119047619,
+    "coins_per_hour": 1931117.7
+  },
+  {
+    "product_id": "ENCHANTED_FERMENTED_SPIDER_EYE",
+    "buy_price": 81999.3,
+    "sell_price": 72670.2,
+    "one_hour_instabuy": 514.8511904761905,
+    "coins_per_hour": 1925823.4
+  },
+  {
+    "product_id": "FRIGID_HUSK",
+    "buy_price": 9999990.3,
+    "sell_price": 2100000.8,
+    "one_hour_instabuy": 0.8571428571428571,
+    "coins_per_hour": 1918747.4
+  },
+  {
+    "product_id": "SHARD_MUDWORM",
+    "buy_price": 68885.9,
+    "sell_price": 57074.3,
+    "one_hour_instabuy": 269.73214285714283,
+    "coins_per_hour": 1913617.7
+  },
+  {
+    "product_id": "RED_SCARF",
+    "buy_price": 746285.7,
+    "sell_price": 322319.8,
+    "one_hour_instabuy": 8.916666666666666,
+    "coins_per_hour": 1907418.5
+  },
+  {
+    "product_id": "CHEESEBITE",
+    "buy_price": 1342979.4,
+    "sell_price": 1100002.5,
+    "one_hour_instabuy": 44.285714285714285,
+    "coins_per_hour": 1905973.8
+  },
+  {
+    "product_id": "ENCHANTMENT_TRANSYLVANIAN_5",
+    "buy_price": 705171.0,
+    "sell_price": 339262.8,
+    "one_hour_instabuy": 22.797619047619047,
+    "coins_per_hour": 1902310.8
+  },
+  {
+    "product_id": "SHARD_WYVERN",
+    "buy_price": 1499995.8,
+    "sell_price": 815000.1,
+    "one_hour_instabuy": 35.79761904761905,
+    "coins_per_hour": 1891714.0
+  },
+  {
+    "product_id": "BRAIN_FOOD",
+    "buy_price": 5010139.6,
+    "sell_price": 4000001.1,
+    "one_hour_instabuy": 11.654761904761905,
+    "coins_per_hour": 1890971.8
+  },
+  {
+    "product_id": "HOT_POTATO_BOOK",
+    "buy_price": 87339.0,
+    "sell_price": 77863.8,
+    "one_hour_instabuy": 1422.8095238095239,
+    "coins_per_hour": 1872198.5
+  },
+  {
+    "product_id": "TENDER_WOOD",
+    "buy_price": 424.7,
+    "sell_price": 175.6,
+    "one_hour_instabuy": 7803.190476190476,
+    "coins_per_hour": 1869209.4
+  },
+  {
+    "product_id": "SHARD_JORMUNG",
+    "buy_price": 1914379.4,
+    "sell_price": 1641864.2,
+    "one_hour_instabuy": 29.339285714285715,
+    "coins_per_hour": 1868310.7
+  },
+  {
+    "product_id": "ENCHANTED_ROTTEN_FLESH",
+    "buy_price": 548.4,
+    "sell_price": 466.5,
+    "one_hour_instabuy": 26854.0,
+    "coins_per_hour": 1867991.1
+  },
+  {
+    "product_id": "TARANTULA_CATALYST",
+    "buy_price": 199498.1,
+    "sell_price": 87886.2,
+    "one_hour_instabuy": 17.38095238095238,
+    "coins_per_hour": 1861903.1
+  },
+  {
+    "product_id": "OLD_FRAGMENT",
+    "buy_price": 13110.7,
+    "sell_price": 8962.6,
+    "one_hour_instabuy": 483.125,
+    "coins_per_hour": 1861533.4
+  },
+  {
+    "product_id": "GOLDEN_PLATE",
+    "buy_price": 1613598.7,
+    "sell_price": 1548902.3,
+    "one_hour_instabuy": 102.75,
+    "coins_per_hour": 1861263.0
+  },
+  {
+    "product_id": "HIGHLITE",
+    "buy_price": 1521873.4,
+    "sell_price": 1313762.6,
+    "one_hour_instabuy": 10.583333333333334,
+    "coins_per_hour": 1840109.9
+  },
+  {
+    "product_id": "ENCHANTED_SUNFLOWER",
+    "buy_price": 637.0,
+    "sell_price": 573.0,
+    "one_hour_instabuy": 37042.857142857145,
+    "coins_per_hour": 1839826.1
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_CHIMERA_4",
+    "buy_price": 344999998.9,
+    "sell_price": 30000000.5,
+    "one_hour_instabuy": 0.047619047619047616,
+    "coins_per_hour": 1828794.6
+  },
+  {
+    "product_id": "MYTHOS_FRAGMENT",
+    "buy_price": 70269.1,
+    "sell_price": 54707.4,
+    "one_hour_instabuy": 352.14285714285717,
+    "coins_per_hour": 1826388.2
+  },
+  {
+    "product_id": "ENCHANTMENT_PESTERMINATOR_1",
+    "buy_price": 25932.9,
+    "sell_price": 17466.6,
+    "one_hour_instabuy": 231.64880952380952,
+    "coins_per_hour": 1826043.5
+  },
+  {
+    "product_id": "ENCHANTMENT_PESTERMINATOR_5",
+    "buy_price": 722889.2,
+    "sell_price": 500000.0,
+    "one_hour_instabuy": 60.666666666666664,
+    "coins_per_hour": 1822720.6
+  },
+  {
+    "product_id": "SEVERED_HAND",
+    "buy_price": 11730563.2,
+    "sell_price": 9071813.8,
+    "one_hour_instabuy": 2.7202380952380953,
+    "coins_per_hour": 1810363.6
+  },
+  {
+    "product_id": "FISH_BAIT",
+    "buy_price": 229.0,
+    "sell_price": 145.7,
+    "one_hour_instabuy": 25538.505952380954,
+    "coins_per_hour": 1805840.3
+  },
+  {
+    "product_id": "SLEEPY_HOLLOW",
+    "buy_price": 15400009.3,
+    "sell_price": 10000107.5,
+    "one_hour_instabuy": 0.35714285714285715,
+    "coins_per_hour": 1804786.3
+  },
+  {
+    "product_id": "SHARD_SOUL_OF_THE_ALPHA",
+    "buy_price": 22998.2,
+    "sell_price": 3596.5,
+    "one_hour_instabuy": 274.0654761904762,
+    "coins_per_hour": 1802208.5
+  },
+  {
+    "product_id": "SHARD_SKELETOR",
+    "buy_price": 199999.3,
+    "sell_price": 170017.6,
+    "one_hour_instabuy": 198.58333333333334,
+    "coins_per_hour": 1795550.9
+  },
+  {
+    "product_id": "ENCHANTED_HOPPER",
+    "buy_price": 318889.1,
+    "sell_price": 275002.9,
+    "one_hour_instabuy": 116.33928571428571,
+    "coins_per_hour": 1788359.7
+  },
+  {
+    "product_id": "ENCHANTED_GLOWSTONE_DUST",
+    "buy_price": 1293.7,
+    "sell_price": 943.2,
+    "one_hour_instabuy": 5523.113095238095,
+    "coins_per_hour": 1775083.0
+  },
+  {
+    "product_id": "RAW_CHICKEN",
+    "buy_price": 168.0,
+    "sell_price": 51.5,
+    "one_hour_instabuy": 15733.095238095239,
+    "coins_per_hour": 1773434.5
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_REFRIGERATE_3",
+    "buy_price": 45749998.5,
+    "sell_price": 7500002.4,
+    "one_hour_instabuy": 0.75,
+    "coins_per_hour": 1772410.5
+  },
+  {
+    "product_id": "HYPER_CATALYST",
+    "buy_price": 163328.5,
+    "sell_price": 147905.2,
+    "one_hour_instabuy": 551.9107142857143,
+    "coins_per_hour": 1771282.4
+  },
+  {
+    "product_id": "DWARVEN_OS_BLOCK_BRAN",
+    "buy_price": 721396.4,
+    "sell_price": 438961.5,
+    "one_hour_instabuy": 10.279761904761905,
+    "coins_per_hour": 1766767.2
+  },
+  {
+    "product_id": "DRILL_ENGINE",
+    "buy_price": 3130872.2,
+    "sell_price": 2927753.5,
+    "one_hour_instabuy": 32.333333333333336,
+    "coins_per_hour": 1762669.9
+  },
+  {
+    "product_id": "SHARD_WITHER_SPECTER",
+    "buy_price": 17499.3,
+    "sell_price": 11000.2,
+    "one_hour_instabuy": 470.23809523809524,
+    "coins_per_hour": 1757909.2
+  },
+  {
+    "product_id": "ESSENCE_SPIDER",
+    "buy_price": 1469.5,
+    "sell_price": 1385.0,
+    "one_hour_instabuy": 33939.71428571428,
+    "coins_per_hour": 1745731.6
+  },
+  {
+    "product_id": "GREAT_CARROT_CANDY",
+    "buy_price": 249982.5,
+    "sell_price": 174664.3,
+    "one_hour_instabuy": 83.29166666666667,
+    "coins_per_hour": 1743999.2
+  },
+  {
+    "product_id": "SHARD_XYZ",
+    "buy_price": 67998.9,
+    "sell_price": 52000.4,
+    "one_hour_instabuy": 454.86309523809524,
+    "coins_per_hour": 1740184.6
+  },
+  {
+    "product_id": "COMPOST",
+    "buy_price": 18913.3,
+    "sell_price": 18388.1,
+    "one_hour_instabuy": 17460.434523809523,
+    "coins_per_hour": 1739945.4
+  },
+  {
+    "product_id": "SHARD_PIRANHA",
+    "buy_price": 34999.9,
+    "sell_price": 27015.7,
+    "one_hour_instabuy": 329.4761904761905,
+    "coins_per_hour": 1715942.3
+  },
+  {
+    "product_id": "FIFTH_MASTER_STAR",
+    "buy_price": 122365762.3,
+    "sell_price": 118978756.7,
+    "one_hour_instabuy": 4.25,
+    "coins_per_hour": 1697614.1
+  },
+  {
+    "product_id": "ENCHANTED_ICE",
+    "buy_price": 698.7,
+    "sell_price": 455.3,
+    "one_hour_instabuy": 7429.4047619047615,
+    "coins_per_hour": 1691521.3
+  },
+  {
+    "product_id": "ENCHANTMENT_DEDICATION_3",
+    "buy_price": 1999973.5,
+    "sell_price": 1500001.0,
+    "one_hour_instabuy": 31.428571428571427,
+    "coins_per_hour": 1687191.9
+  },
+  {
+    "product_id": "SQUEAKY_TOY",
+    "buy_price": 39818.5,
+    "sell_price": 6000.8,
+    "one_hour_instabuy": 55.32738095238095,
+    "coins_per_hour": 1675483.6
+  },
+  {
+    "product_id": "ENCHANTED_BIRCH_LOG",
+    "buy_price": 547.0,
+    "sell_price": 270.6,
+    "one_hour_instabuy": 6322.589285714285,
+    "coins_per_hour": 1669748.4
+  },
+  {
+    "product_id": "SHARD_LUNAR_MOTH",
+    "buy_price": 979998.0,
+    "sell_price": 831612.6,
+    "one_hour_instabuy": 116.61309523809524,
+    "coins_per_hour": 1664920.7
+  },
+  {
+    "product_id": "SHARD_ETHERDRAKE",
+    "buy_price": 1887959.9,
+    "sell_price": 1543542.5,
+    "one_hour_instabuy": 27.773809523809526,
+    "coins_per_hour": 1660660.7
+  },
+  {
+    "product_id": "ENCHANTMENT_REJUVENATE_3",
+    "buy_price": 229803.7,
+    "sell_price": 81006.9,
+    "one_hour_instabuy": 11.446428571428571,
+    "coins_per_hour": 1644007.2
+  },
+  {
+    "product_id": "DERELICT_ASHE",
+    "buy_price": 2092.0,
+    "sell_price": 1827.9,
+    "one_hour_instabuy": 7561.625,
+    "coins_per_hour": 1641099.5
+  },
+  {
+    "product_id": "LIVID_FRAGMENT",
+    "buy_price": 91280.6,
+    "sell_price": 77446.9,
+    "one_hour_instabuy": 138.6845238095238,
+    "coins_per_hour": 1633687.9
+  },
+  {
+    "product_id": "IMPLOSION_SCROLL",
+    "buy_price": 236342685.6,
+    "sell_price": 230395653.0,
+    "one_hour_instabuy": 3.482142857142857,
+    "coins_per_hour": 1625748.9
+  },
+  {
+    "product_id": "SUSPICIOUS_SCRAP",
+    "buy_price": 69215.6,
+    "sell_price": 66338.8,
+    "one_hour_instabuy": 1250.2857142857142,
+    "coins_per_hour": 1625215.6
+  },
+  {
+    "product_id": "TIMESTALK",
+    "buy_price": 2288449.7,
+    "sell_price": 2006494.2,
+    "one_hour_instabuy": 7.029761904761905,
+    "coins_per_hour": 1620116.8
+  },
+  {
+    "product_id": "ENCHANTED_GUNPOWDER",
+    "buy_price": 1299.2,
+    "sell_price": 901.7,
+    "one_hour_instabuy": 4392.517857142857,
+    "coins_per_hour": 1617623.8
+  },
+  {
+    "product_id": "SHARD_PRAYING_MANTIS",
+    "buy_price": 85709.8,
+    "sell_price": 55265.3,
+    "one_hour_instabuy": 563.4880952380952,
+    "coins_per_hour": 1613022.8
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_THE_ONE_4",
+    "buy_price": 62499999.6,
+    "sell_price": 41810018.0,
+    "one_hour_instabuy": 0.44047619047619047,
+    "coins_per_hour": 1606977.6
+  },
+  {
+    "product_id": "DAEDALUS_STICK",
+    "buy_price": 3474238.4,
+    "sell_price": 2100000.0,
+    "one_hour_instabuy": 8.678571428571429,
+    "coins_per_hour": 1596941.0
+  },
+  {
+    "product_id": "FATEFUL_STINGER",
+    "buy_price": 11852396.4,
+    "sell_price": 8764696.3,
+    "one_hour_instabuy": 1.9702380952380953,
+    "coins_per_hour": 1595220.3
+  },
+  {
+    "product_id": "ENCHANTED_IRON_BLOCK",
+    "buy_price": 53014.6,
+    "sell_price": 49802.8,
+    "one_hour_instabuy": 787.5178571428571,
+    "coins_per_hour": 1589976.1
+  },
+  {
+    "product_id": "COAL",
+    "buy_price": 14.6,
+    "sell_price": 5.5,
+    "one_hour_instabuy": 180658.45833333334,
+    "coins_per_hour": 1584645.7
+  },
+  {
+    "product_id": "CHOCONUT",
+    "buy_price": 3116.2,
+    "sell_price": 1470.2,
+    "one_hour_instabuy": 1159.845238095238,
+    "coins_per_hour": 1584430.9
+  },
+  {
+    "product_id": "LONELILY",
+    "buy_price": 6724.6,
+    "sell_price": 3501.7,
+    "one_hour_instabuy": 514.4345238095239,
+    "coins_per_hour": 1580135.3
+  },
+  {
+    "product_id": "AGATHA_COUPON",
+    "buy_price": 10499.5,
+    "sell_price": 10005.2,
+    "one_hour_instabuy": 6118.672619047619,
+    "coins_per_hour": 1578992.3
+  },
+  {
+    "product_id": "BOUNCY_BEACH_BALL",
+    "buy_price": 248540.6,
+    "sell_price": 141625.1,
+    "one_hour_instabuy": 15.553571428571429,
+    "coins_per_hour": 1575939.8
+  },
+  {
+    "product_id": "ORB_OF_ENERGY",
+    "buy_price": 12028.1,
+    "sell_price": 9324.6,
+    "one_hour_instabuy": 645.0714285714286,
+    "coins_per_hour": 1569373.5
+  },
+  {
+    "product_id": "SHARD_PYTHON",
+    "buy_price": 238053.8,
+    "sell_price": 163034.5,
+    "one_hour_instabuy": 279.8511904761905,
+    "coins_per_hour": 1565760.9
+  },
+  {
+    "product_id": "SHARD_VIPER",
+    "buy_price": 179996.8,
+    "sell_price": 168708.7,
+    "one_hour_instabuy": 346.3452380952381,
+    "coins_per_hour": 1563789.8
+  },
+  {
+    "product_id": "GRAND_EXP_BOTTLE",
+    "buy_price": 4508.8,
+    "sell_price": 4339.7,
+    "one_hour_instabuy": 23020.48214285714,
+    "coins_per_hour": 1557381.7
+  },
+  {
+    "product_id": "VINESAP",
+    "buy_price": 1632.2,
+    "sell_price": 1055.5,
+    "one_hour_instabuy": 2876.7023809523807,
+    "coins_per_hour": 1553348.8
+  },
+  {
+    "product_id": "ENCHANTMENT_CHAMPION_1",
+    "buy_price": 4099996.6,
+    "sell_price": 3530004.5,
+    "one_hour_instabuy": 10.863095238095237,
+    "coins_per_hour": 1552662.1
+  },
+  {
+    "product_id": "TENTACLE_MEAT",
+    "buy_price": 24733.5,
+    "sell_price": 18127.0,
+    "one_hour_instabuy": 269.4047619047619,
+    "coins_per_hour": 1550347.6
+  },
+  {
+    "product_id": "CINDERSHADE",
+    "buy_price": 378674.9,
+    "sell_price": 336809.5,
+    "one_hour_instabuy": 161.85119047619048,
+    "coins_per_hour": 1549560.1
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_CHIMERA_3",
+    "buy_price": 198999995.2,
+    "sell_price": 64617751.0,
+    "one_hour_instabuy": 0.13095238095238096,
+    "coins_per_hour": 1546485.1
+  },
+  {
+    "product_id": "BLUE_SHARK_TOOTH",
+    "buy_price": 57318.2,
+    "sell_price": 30673.7,
+    "one_hour_instabuy": 148.64285714285714,
+    "coins_per_hour": 1538042.7
+  },
+  {
+    "product_id": "ENCHANTED_EMERALD",
+    "buy_price": 937.1,
+    "sell_price": 711.4,
+    "one_hour_instabuy": 7506.511904761905,
+    "coins_per_hour": 1535946.8
+  },
+  {
+    "product_id": "PET_ITEM_TIER_BOOST_DROP",
+    "buy_price": 144444442.1,
+    "sell_price": 130000005.0,
+    "one_hour_instabuy": 0.16666666666666666,
+    "coins_per_hour": 1532571.8
+  },
+  {
+    "product_id": "SHARD_COD",
+    "buy_price": 3000.0,
+    "sell_price": 2500.0,
+    "one_hour_instabuy": 3540.0,
+    "coins_per_hour": 1531050.0
+  },
+  {
+    "product_id": "HYPERGOLIC_IONIZED_CERAMICS",
+    "buy_price": 46993.1,
+    "sell_price": 2900.5,
+    "one_hour_instabuy": 35.5,
+    "coins_per_hour": 1527751.6
+  },
+  {
+    "product_id": "HORSEMAN_CANDLE",
+    "buy_price": 719999.9,
+    "sell_price": 300041.2,
+    "one_hour_instabuy": 10.154761904761905,
+    "coins_per_hour": 1526111.8
+  },
+  {
+    "product_id": "ENCHANTMENT_DEDICATION_1",
+    "buy_price": 438219.9,
+    "sell_price": 367628.9,
+    "one_hour_instabuy": 25.113095238095237,
+    "coins_per_hour": 1525144.7
+  },
+  {
+    "product_id": "THORNSHADE",
+    "buy_price": 411870.6,
+    "sell_price": 324525.5,
+    "one_hour_instabuy": 65.00595238095238,
+    "coins_per_hour": 1524380.2
+  },
+  {
+    "product_id": "REFINED_MITHRIL",
+    "buy_price": 462333.8,
+    "sell_price": 447879.4,
+    "one_hour_instabuy": 499.625,
+    "coins_per_hour": 1523606.9
+  },
+  {
+    "product_id": "SHARD_STRIDER_SURFER",
+    "buy_price": 9123.8,
+    "sell_price": 3604.0,
+    "one_hour_instabuy": 458.7916666666667,
+    "coins_per_hour": 1516851.0
+  },
+  {
+    "product_id": "SHARD_HIDEONLEAF",
+    "buy_price": 62695.2,
+    "sell_price": 60000.2,
+    "one_hour_instabuy": 1939.2738095238096,
+    "coins_per_hour": 1512178.6
+  },
+  {
+    "product_id": "ENCHANTED_IRON",
+    "buy_price": 892.6,
+    "sell_price": 798.9,
+    "one_hour_instabuy": 20503.089285714286,
+    "coins_per_hour": 1509365.7
+  },
+  {
+    "product_id": "FOUL_FLESH",
+    "buy_price": 28084.6,
+    "sell_price": 24378.0,
+    "one_hour_instabuy": 485.98214285714283,
+    "coins_per_hour": 1494247.6
+  },
+  {
+    "product_id": "ENCHANTMENT_LAPIDARY_1",
+    "buy_price": 239455.6,
+    "sell_price": 181940.3,
+    "one_hour_instabuy": 28.654761904761905,
+    "coins_per_hour": 1493702.5
+  },
+  {
+    "product_id": "CHORUS_FRUIT",
+    "buy_price": 341904.4,
+    "sell_price": 241465.1,
+    "one_hour_instabuy": 38.11309523809524,
+    "coins_per_hour": 1491672.1
+  },
+  {
+    "product_id": "RAW_SOULFLOW",
+    "buy_price": 527.8,
+    "sell_price": 128.0,
+    "one_hour_instabuy": 3834.7321428571427,
+    "coins_per_hour": 1487586.5
+  },
+  {
+    "product_id": "SHARD_SUN_FISH",
+    "buy_price": 679996.8,
+    "sell_price": 537549.0,
+    "one_hour_instabuy": 20.464285714285715,
+    "coins_per_hour": 1486419.2
+  },
+  {
+    "product_id": "SHARD_BEZAL",
+    "buy_price": 19151.0,
+    "sell_price": 12339.4,
+    "one_hour_instabuy": 1840.9107142857142,
+    "coins_per_hour": 1485298.4
+  },
+  {
+    "product_id": "TUNGSTEN_KEY",
+    "buy_price": 3584992.6,
+    "sell_price": 3456684.8,
+    "one_hour_instabuy": 105.78571428571429,
+    "coins_per_hour": 1477293.1
+  },
+  {
+    "product_id": "FINE_SAPPHIRE_GEM",
+    "buy_price": 31846.5,
+    "sell_price": 30316.2,
+    "one_hour_instabuy": 1806.4285714285713,
+    "coins_per_hour": 1469988.0
+  },
+  {
+    "product_id": "ENCHANTED_OBSIDIAN",
+    "buy_price": 2717.8,
+    "sell_price": 2581.6,
+    "one_hour_instabuy": 19564.5,
+    "coins_per_hour": 1468305.9
+  },
+  {
+    "product_id": "MITHRIL_INFUSION",
+    "buy_price": 4099999.5,
+    "sell_price": 3558504.0,
+    "one_hour_instabuy": 17.386904761904763,
+    "coins_per_hour": 1462722.0
+  },
+  {
+    "product_id": "SHARD_HARPY",
+    "buy_price": 153019.7,
+    "sell_price": 36159.8,
+    "one_hour_instabuy": 49.31547619047619,
+    "coins_per_hour": 1458218.0
+  },
+  {
+    "product_id": "SHARD_LAPIS_SKELETON",
+    "buy_price": 62797.2,
+    "sell_price": 44001.7,
+    "one_hour_instabuy": 286.89285714285717,
+    "coins_per_hour": 1452789.1
+  },
+  {
+    "product_id": "ENCHANTED_TUNGSTEN",
+    "buy_price": 15616.2,
+    "sell_price": 14605.9,
+    "one_hour_instabuy": 2202.9940476190477,
+    "coins_per_hour": 1451631.0
+  },
+  {
+    "product_id": "INFERNO_FUEL_BLOCK",
+    "buy_price": 50667.7,
+    "sell_price": 46114.5,
+    "one_hour_instabuy": 423.9345238095238,
+    "coins_per_hour": 1446963.5
+  },
+  {
+    "product_id": "CORLEONITE",
+    "buy_price": 807997.8,
+    "sell_price": 766109.8,
+    "one_hour_instabuy": 94.95238095238095,
+    "coins_per_hour": 1444779.8
+  },
+  {
+    "product_id": "CHLORONITE",
+    "buy_price": 439981.1,
+    "sell_price": 329349.8,
+    "one_hour_instabuy": 84.05952380952381,
+    "coins_per_hour": 1440823.4
+  },
+  {
+    "product_id": "STRONG_FRAGMENT",
+    "buy_price": 40126.3,
+    "sell_price": 36000.6,
+    "one_hour_instabuy": 444.4047619047619,
+    "coins_per_hour": 1432253.6
+  },
+  {
+    "product_id": "RABBIT",
+    "buy_price": 88.5,
+    "sell_price": 22.1,
+    "one_hour_instabuy": 22091.720238095237,
+    "coins_per_hour": 1422900.1
+  },
+  {
+    "product_id": "ENCHANTMENT_GREEN_THUMB_4",
+    "buy_price": 21299997.0,
+    "sell_price": 14000000.3,
+    "one_hour_instabuy": 1.4702380952380953,
+    "coins_per_hour": 1420988.9
+  },
+  {
+    "product_id": "SHARD_HIDEONCAVE",
+    "buy_price": 239993.5,
+    "sell_price": 173501.7,
+    "one_hour_instabuy": 181.0952380952381,
+    "coins_per_hour": 1416751.3
+  },
+  {
+    "product_id": "WITHER_SHIELD_SCROLL",
+    "buy_price": 233971888.4,
+    "sell_price": 228095706.4,
+    "one_hour_instabuy": 2.892857142857143,
+    "coins_per_hour": 1416641.9
+  },
+  {
+    "product_id": "FROZEN_BAUBLE",
+    "buy_price": 7599999.5,
+    "sell_price": 4700000.0,
+    "one_hour_instabuy": 3.6547619047619047,
+    "coins_per_hour": 1413231.9
+  },
+  {
+    "product_id": "ENCHANTMENT_SMOLDERING_1",
+    "buy_price": 4302136.4,
+    "sell_price": 4034928.4,
+    "one_hour_instabuy": 12.571428571428571,
+    "coins_per_hour": 1411968.0
+  },
+  {
+    "product_id": "BLASTBERRY",
+    "buy_price": 1609611.4,
+    "sell_price": 1516132.1,
+    "one_hour_instabuy": 49.18452380952381,
+    "coins_per_hour": 1411125.0
+  },
+  {
+    "product_id": "SHARD_DREADWING",
+    "buy_price": 59285.4,
+    "sell_price": 33051.7,
+    "one_hour_instabuy": 93.57142857142857,
+    "coins_per_hour": 1409060.7
+  },
+  {
+    "product_id": "ENCHANTED_MOONFLOWER",
+    "buy_price": 689.3,
+    "sell_price": 626.9,
+    "one_hour_instabuy": 30043.20238095238,
+    "coins_per_hour": 1408748.3
+  },
+  {
+    "product_id": "ENCHANTED_RAW_CHICKEN",
+    "buy_price": 665.0,
+    "sell_price": 548.2,
+    "one_hour_instabuy": 13716.392857142857,
+    "coins_per_hour": 1396843.2
+  },
+  {
+    "product_id": "MAGMA_FISH_DIAMOND",
+    "buy_price": 9499992.6,
+    "sell_price": 8800003.0,
+    "one_hour_instabuy": 6.589285714285714,
+    "coins_per_hour": 1389256.5
+  },
+  {
+    "product_id": "ENCHANTMENT_TURBO_MELON_1",
+    "buy_price": 81992.7,
+    "sell_price": 38019.0,
+    "one_hour_instabuy": 32.92857142857143,
+    "coins_per_hour": 1387243.3
+  },
+  {
+    "product_id": "FULL_CHUM_BUCKET",
+    "buy_price": 21999.0,
+    "sell_price": 8874.3,
+    "one_hour_instabuy": 286.79761904761904,
+    "coins_per_hour": 1383631.2
+  },
+  {
+    "product_id": "RITUAL_RESIDUE",
+    "buy_price": 2280496.2,
+    "sell_price": 2104702.8,
+    "one_hour_instabuy": 21.875,
+    "coins_per_hour": 1381901.0
+  },
+  {
+    "product_id": "SHARD_FIREFLY",
+    "buy_price": 280191.8,
+    "sell_price": 229143.4,
+    "one_hour_instabuy": 229.60714285714286,
+    "coins_per_hour": 1380408.3
+  },
+  {
+    "product_id": "ENCHANTED_MAGMA_CREAM",
+    "buy_price": 1627.6,
+    "sell_price": 1360.6,
+    "one_hour_instabuy": 5976.690476190476,
+    "coins_per_hour": 1376904.0
+  },
+  {
+    "product_id": "AOTE_STONE",
+    "buy_price": 5842784.2,
+    "sell_price": 4842476.3,
+    "one_hour_instabuy": 2.9404761904761907,
+    "coins_per_hour": 1370500.0
+  },
+  {
+    "product_id": "LARGE_ENCHANTED_CHEST",
+    "buy_price": 392212.7,
+    "sell_price": 323850.7,
+    "one_hour_instabuy": 61.36904761904762,
+    "coins_per_hour": 1367584.0
+  },
+  {
+    "product_id": "GUARDIAN_LUCKY_BLOCK",
+    "buy_price": 3799166.3,
+    "sell_price": 2970861.2,
+    "one_hour_instabuy": 3.6547619047619047,
+    "coins_per_hour": 1366265.3
+  },
+  {
+    "product_id": "MOBY_DUCK_COLLECTOR_EDITION",
+    "buy_price": 10700404.6,
+    "sell_price": 6904166.9,
+    "one_hour_instabuy": 1.6488095238095237,
+    "coins_per_hour": 1354468.0
+  },
+  {
+    "product_id": "ENCHANTMENT_LOOTING_4",
+    "buy_price": 74000.0,
+    "sell_price": 6002.6,
+    "one_hour_instabuy": 29.678571428571427,
+    "coins_per_hour": 1351127.8
+  },
+  {
+    "product_id": "FINE_ONYX_GEM",
+    "buy_price": 26212.5,
+    "sell_price": 23962.2,
+    "one_hour_instabuy": 812.922619047619,
+    "coins_per_hour": 1349873.3
+  },
+  {
+    "product_id": "ENCHANTMENT_TRIPLE_STRIKE_5",
+    "buy_price": 21805388.7,
+    "sell_price": 16956068.1,
+    "one_hour_instabuy": 0.7857142857142857,
+    "coins_per_hour": 1349121.2
+  },
+  {
+    "product_id": "ENCHANTMENT_QUANTUM_5",
+    "buy_price": 8479994.3,
+    "sell_price": 2000003.1,
+    "one_hour_instabuy": 1.1726190476190477,
+    "coins_per_hour": 1347683.9
+  },
+  {
+    "product_id": "SPIRIT_WING",
+    "buy_price": 2938141.2,
+    "sell_price": 2711911.6,
+    "one_hour_instabuy": 8.398809523809524,
+    "coins_per_hour": 1344829.3
+  },
+  {
+    "product_id": "WRIGGLING_LARVA",
+    "buy_price": 266996.7,
+    "sell_price": 222006.4,
+    "one_hour_instabuy": 34.44642857142857,
+    "coins_per_hour": 1342820.8
+  },
+  {
+    "product_id": "COLOSSAL_EXP_BOTTLE",
+    "buy_price": 1843999.7,
+    "sell_price": 1715353.4,
+    "one_hour_instabuy": 42.267857142857146,
+    "coins_per_hour": 1340028.2
+  },
+  {
+    "product_id": "FLAWLESS_AMBER_GEM",
+    "buy_price": 2517748.0,
+    "sell_price": 2419918.8,
+    "one_hour_instabuy": 50.476190476190474,
+    "coins_per_hour": 1336875.1
+  },
+  {
+    "product_id": "SHARD_TADGANG",
+    "buy_price": 35479.5,
+    "sell_price": 29027.7,
+    "one_hour_instabuy": 679.8988095238095,
+    "coins_per_hour": 1326657.0
+  },
+  {
+    "product_id": "SHARD_SEA_SERPENT",
+    "buy_price": 485300.6,
+    "sell_price": 366268.6,
+    "one_hour_instabuy": 111.85714285714286,
+    "coins_per_hour": 1325024.6
+  },
+  {
+    "product_id": "SHARD_SYLVAN",
+    "buy_price": 184310.2,
+    "sell_price": 89681.3,
+    "one_hour_instabuy": 81.88690476190476,
+    "coins_per_hour": 1321682.3
+  },
+  {
+    "product_id": "WOODEN_BAIT",
+    "buy_price": 81199.5,
+    "sell_price": 65001.1,
+    "one_hour_instabuy": 91.96428571428571,
+    "coins_per_hour": 1321656.6
+  },
+  {
+    "product_id": "WHIPPED_MAGMA_CREAM",
+    "buy_price": 205000.0,
+    "sell_price": 191491.0,
+    "one_hour_instabuy": 148.4047619047619,
+    "coins_per_hour": 1320283.0
+  },
+  {
+    "product_id": "MELON_BLOCK",
+    "buy_price": 248.0,
+    "sell_price": 32.2,
+    "one_hour_instabuy": 12196.940476190477,
+    "coins_per_hour": 1318962.8
+  },
+  {
+    "product_id": "PERFECT_RUBY_GEM",
+    "buy_price": 11693881.4,
+    "sell_price": 10775731.2,
+    "one_hour_instabuy": 3.7976190476190474,
+    "coins_per_hour": 1313974.8
+  },
+  {
+    "product_id": "DUSKBLOOM",
+    "buy_price": 413123.7,
+    "sell_price": 360000.0,
+    "one_hour_instabuy": 155.70833333333334,
+    "coins_per_hour": 1311200.1
+  },
+  {
+    "product_id": "SHARD_BIRRIES",
+    "buy_price": 4500.4,
+    "sell_price": 2706.7,
+    "one_hour_instabuy": 956.0892857142857,
+    "coins_per_hour": 1301577.8
+  },
+  {
+    "product_id": "ENCHANTED_LAPIS_LAZULI",
+    "buy_price": 767.8,
+    "sell_price": 615.2,
+    "one_hour_instabuy": 9563.214285714286,
+    "coins_per_hour": 1294137.2
+  },
+  {
+    "product_id": "SHELLFRUIT",
+    "buy_price": 80720.1,
+    "sell_price": 42346.2,
+    "one_hour_instabuy": 82.82142857142857,
+    "coins_per_hour": 1283218.7
+  },
+  {
+    "product_id": "ENCHANTMENT_REPLENISH_1",
+    "buy_price": 1499983.0,
+    "sell_price": 1032618.8,
+    "one_hour_instabuy": 49.26190476190476,
+    "coins_per_hour": 1282776.5
+  },
+  {
+    "product_id": "SHARD_HIDEONSACK",
+    "buy_price": 1069995.9,
+    "sell_price": 800000.8,
+    "one_hour_instabuy": 22.023809523809526,
+    "coins_per_hour": 1282298.1
+  },
+  {
+    "product_id": "SLUDGE_JUICE",
+    "buy_price": 1405.4,
+    "sell_price": 1334.1,
+    "one_hour_instabuy": 32304.488095238095,
+    "coins_per_hour": 1281793.6
+  },
+  {
+    "product_id": "SHARD_CRETAN_BULL",
+    "buy_price": 123629.3,
+    "sell_price": 86015.4,
+    "one_hour_instabuy": 136.89880952380952,
+    "coins_per_hour": 1279255.5
+  },
+  {
+    "product_id": "SHARD_SEA_EMPEROR",
+    "buy_price": 191402.3,
+    "sell_price": 147397.2,
+    "one_hour_instabuy": 117.74404761904762,
+    "coins_per_hour": 1275788.5
+  },
+  {
+    "product_id": "SHARD_WATER_HYDRA",
+    "buy_price": 213661.5,
+    "sell_price": 160002.8,
+    "one_hour_instabuy": 115.21428571428571,
+    "coins_per_hour": 1272460.5
+  },
+  {
+    "product_id": "SHARD_HIDEONGIFT",
+    "buy_price": 234185.3,
+    "sell_price": 131137.8,
+    "one_hour_instabuy": 62.291666666666664,
+    "coins_per_hour": 1265298.2
+  },
+  {
+    "product_id": "SHARD_SALAMANDER",
+    "buy_price": 220000.0,
+    "sell_price": 150000.3,
+    "one_hour_instabuy": 194.9047619047619,
+    "coins_per_hour": 1263048.3
+  },
+  {
+    "product_id": "THUNDERLING",
+    "buy_price": 1959083.6,
+    "sell_price": 1522954.8,
+    "one_hour_instabuy": 20.726190476190474,
+    "coins_per_hour": 1260158.8
+  },
+  {
+    "product_id": "SHARD_RAIN_SLIME",
+    "buy_price": 19995.9,
+    "sell_price": 11912.1,
+    "one_hour_instabuy": 410.3452380952381,
+    "coins_per_hour": 1259183.3
+  },
+  {
+    "product_id": "CONCENTRATED_STONE",
+    "buy_price": 332491.0,
+    "sell_price": 301020.1,
+    "one_hour_instabuy": 52.26190476190476,
+    "coins_per_hour": 1253755.4
+  },
+  {
+    "product_id": "ENCHANTED_CACTUS",
+    "buy_price": 103104.7,
+    "sell_price": 99755.5,
+    "one_hour_instabuy": 1305.327380952381,
+    "coins_per_hour": 1253477.8
+  },
+  {
+    "product_id": "HOT_BAIT",
+    "buy_price": 198.5,
+    "sell_price": 51.3,
+    "one_hour_instabuy": 8726.77380952381,
+    "coins_per_hour": 1245605.2
+  },
+  {
+    "product_id": "Y",
+    "buy_price": 157700.1,
+    "sell_price": 78509.1,
+    "one_hour_instabuy": 27.5,
+    "coins_per_hour": 1242252.0
+  },
+  {
+    "product_id": "DEEP_ROOT",
+    "buy_price": 7995.9,
+    "sell_price": 5150.1,
+    "one_hour_instabuy": 464.4166666666667,
+    "coins_per_hour": 1238084.8
+  },
+  {
+    "product_id": "WEREWOLF_SKIN",
+    "buy_price": 6465.9,
+    "sell_price": 1796.6,
+    "one_hour_instabuy": 272.6488095238095,
+    "coins_per_hour": 1233413.4
+  },
+  {
+    "product_id": "SHARD_KOMODO_DRAGON",
+    "buy_price": 758596.5,
+    "sell_price": 561526.7,
+    "one_hour_instabuy": 23.017857142857142,
+    "coins_per_hour": 1233223.7
+  },
+  {
+    "product_id": "SHARD_TOAD",
+    "buy_price": 199988.3,
+    "sell_price": 69926.2,
+    "one_hour_instabuy": 65.16071428571429,
+    "coins_per_hour": 1232454.4
+  },
+  {
+    "product_id": "ULTIMATE_CARROT_CANDY",
+    "buy_price": 2623666.2,
+    "sell_price": 2470000.6,
+    "one_hour_instabuy": 148.26190476190476,
+    "coins_per_hour": 1226850.7
+  },
+  {
+    "product_id": "ENCHANTMENT_REJUVENATE_2",
+    "buy_price": 93572.2,
+    "sell_price": 35744.6,
+    "one_hour_instabuy": 21.99404761904762,
+    "coins_per_hour": 1225557.3
+  },
+  {
+    "product_id": "GIANT_BOUNCY_BEACH_BALL",
+    "buy_price": 999997.1,
+    "sell_price": 145004.8,
+    "one_hour_instabuy": 2.6547619047619047,
+    "coins_per_hour": 1223962.0
+  },
+  {
+    "product_id": "XLARGE_ENCHANTED_CHEST",
+    "buy_price": 2340567.0,
+    "sell_price": 1721704.0,
+    "one_hour_instabuy": 6.8273809523809526,
+    "coins_per_hour": 1216656.5
+  },
+  {
+    "product_id": "MANA_DISINTEGRATOR",
+    "buy_price": 32861.0,
+    "sell_price": 7641.0,
+    "one_hour_instabuy": 78.66666666666667,
+    "coins_per_hour": 1216016.9
+  },
+  {
+    "product_id": "MEDIUM_ENCHANTED_CHEST",
+    "buy_price": 14965.8,
+    "sell_price": 1202.8,
+    "one_hour_instabuy": 90.5,
+    "coins_per_hour": 1215077.4
+  },
+  {
+    "product_id": "ENCHANTMENT_SYPHON_5",
+    "buy_price": 38800998.7,
+    "sell_price": 35210002.0,
+    "one_hour_instabuy": 1.1011904761904763,
+    "coins_per_hour": 1213381.4
+  },
+  {
+    "product_id": "MAGIC_TOP_HAT",
+    "buy_price": 39998999.1,
+    "sell_price": 22139377.3,
+    "one_hour_instabuy": 0.07142857142857142,
+    "coins_per_hour": 1211403.2
+  },
+  {
+    "product_id": "ENCHANTMENT_ABSORB_1",
+    "buy_price": 4099999.2,
+    "sell_price": 3450002.6,
+    "one_hour_instabuy": 7.4523809523809526,
+    "coins_per_hour": 1205131.1
+  },
+  {
+    "product_id": "SHARD_EEL",
+    "buy_price": 341787.1,
+    "sell_price": 278694.2,
+    "one_hour_instabuy": 82.35714285714286,
+    "coins_per_hour": 1203359.6
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_LEGION_4",
+    "buy_price": 23999998.4,
+    "sell_price": 10000001.0,
+    "one_hour_instabuy": 0.9047619047619048,
+    "coins_per_hour": 1201785.5
+  },
+  {
+    "product_id": "HEMOBOMB",
+    "buy_price": 272482.3,
+    "sell_price": 216290.9,
+    "one_hour_instabuy": 46.720238095238095,
+    "coins_per_hour": 1201155.2
+  },
+  {
+    "product_id": "ENCHANTED_CARROT",
+    "buy_price": 502.2,
+    "sell_price": 467.9,
+    "one_hour_instabuy": 52139.42857142857,
+    "coins_per_hour": 1199232.9
+  },
+  {
+    "product_id": "BACHELOR_ROSE",
+    "buy_price": 1014002.9,
+    "sell_price": 750000.3,
+    "one_hour_instabuy": 64.30952380952381,
+    "coins_per_hour": 1197323.8
+  },
+  {
+    "product_id": "SHARD_ZEALOT",
+    "buy_price": 13403.2,
+    "sell_price": 10264.5,
+    "one_hour_instabuy": 758.5535714285714,
+    "coins_per_hour": 1194042.5
+  },
+  {
+    "product_id": "SHARD_SPIKE",
+    "buy_price": 60887.8,
+    "sell_price": 43590.6,
+    "one_hour_instabuy": 153.17857142857142,
+    "coins_per_hour": 1191792.5
+  },
+  {
+    "product_id": "BAYOU_WATER_ORB",
+    "buy_price": 59311110.2,
+    "sell_price": 8111117.7,
+    "one_hour_instabuy": 0.4880952380952381,
+    "coins_per_hour": 1187273.6
+  },
+  {
+    "product_id": "SEARING_STONE",
+    "buy_price": 999998.7,
+    "sell_price": 95503.6,
+    "one_hour_instabuy": 31.363095238095237,
+    "coins_per_hour": 1186493.4
+  },
+  {
+    "product_id": "SHARD_BRAMBLE",
+    "buy_price": 124999.5,
+    "sell_price": 74928.7,
+    "one_hour_instabuy": 150.14285714285714,
+    "coins_per_hour": 1182020.4
+  },
+  {
+    "product_id": "SHARD_QUARTZFANG",
+    "buy_price": 199431.6,
+    "sell_price": 142884.4,
+    "one_hour_instabuy": 126.74404761904762,
+    "coins_per_hour": 1181575.8
+  },
+  {
+    "product_id": "LEATHER",
+    "buy_price": 118.0,
+    "sell_price": 73.5,
+    "one_hour_instabuy": 27951.613095238095,
+    "coins_per_hour": 1169635.2
+  },
+  {
+    "product_id": "SHARD_STALAGMIGHT",
+    "buy_price": 643344.2,
+    "sell_price": 508834.9,
+    "one_hour_instabuy": 63.50595238095238,
+    "coins_per_hour": 1169617.6
+  },
+  {
+    "product_id": "POISON_SAMPLE",
+    "buy_price": 554989.8,
+    "sell_price": 486864.6,
+    "one_hour_instabuy": 20.99404761904762,
+    "coins_per_hour": 1168065.3
+  },
+  {
+    "product_id": "SHARD_MAGMA_SLUG",
+    "buy_price": 10731.5,
+    "sell_price": 4750.2,
+    "one_hour_instabuy": 421.80357142857144,
+    "coins_per_hour": 1167818.5
+  },
+  {
+    "product_id": "SHARD_GOLDEN_GHOUL",
+    "buy_price": 19550.4,
+    "sell_price": 15524.4,
+    "one_hour_instabuy": 512.8809523809524,
+    "coins_per_hour": 1161175.8
+  },
+  {
+    "product_id": "CAN_OF_WORMS",
+    "buy_price": 16999.0,
+    "sell_price": 14656.5,
+    "one_hour_instabuy": 629.2738095238095,
+    "coins_per_hour": 1159481.6
+  },
+  {
+    "product_id": "ENCHANTED_PAPER",
+    "buy_price": 2999.6,
+    "sell_price": 999.4,
+    "one_hour_instabuy": 1260.797619047619,
+    "coins_per_hour": 1152331.7
+  },
+  {
+    "product_id": "BAT_FIREWORK",
+    "buy_price": 243983.9,
+    "sell_price": 118303.1,
+    "one_hour_instabuy": 20.553571428571427,
+    "coins_per_hour": 1151116.5
+  },
+  {
+    "product_id": "GIANT_WITCH_CAULDRON",
+    "buy_price": 211964996.1,
+    "sell_price": 110916587.6,
+    "one_hour_instabuy": 0.011904761904761904,
+    "coins_per_hour": 1146180.9
+  },
+  {
+    "product_id": "ENCHANTED_REDSTONE_LAMP",
+    "buy_price": 194985.4,
+    "sell_price": 109263.5,
+    "one_hour_instabuy": 20.238095238095237,
+    "coins_per_hour": 1144495.8
+  },
+  {
+    "product_id": "DWARVEN_OS_METALLIC_MINIS",
+    "buy_price": 605639.7,
+    "sell_price": 469242.0,
+    "one_hour_instabuy": 11.964285714285714,
+    "coins_per_hour": 1142207.0
+  },
+  {
+    "product_id": "FIGSTONE",
+    "buy_price": 183998.5,
+    "sell_price": 175844.8,
+    "one_hour_instabuy": 432.0059523809524,
+    "coins_per_hour": 1139852.6
+  },
+  {
+    "product_id": "ENCHANTMENT_STRONG_MANA_4",
+    "buy_price": 1681805.2,
+    "sell_price": 864481.5,
+    "one_hour_instabuy": 1.4583333333333333,
+    "coins_per_hour": 1136746.2
+  },
+  {
+    "product_id": "SHARD_TROGLOBYTE",
+    "buy_price": 69999.7,
+    "sell_price": 55001.2,
+    "one_hour_instabuy": 483.48809523809524,
+    "coins_per_hour": 1128853.0
+  },
+  {
+    "product_id": "SHARD_KING_MINOS",
+    "buy_price": 834224.0,
+    "sell_price": 557242.0,
+    "one_hour_instabuy": 55.81547619047619,
+    "coins_per_hour": 1126603.4
+  },
+  {
+    "product_id": "JERRY_BOX_PURPLE",
+    "buy_price": 248638.8,
+    "sell_price": 106415.1,
+    "one_hour_instabuy": 42.20238095238095,
+    "coins_per_hour": 1124752.1
+  },
+  {
+    "product_id": "SHARD_RANA",
+    "buy_price": 149999.8,
+    "sell_price": 44504.1,
+    "one_hour_instabuy": 68.57142857142857,
+    "coins_per_hour": 1119680.6
+  },
+  {
+    "product_id": "SUPERB_CARROT_CANDY",
+    "buy_price": 2689552.6,
+    "sell_price": 1695588.1,
+    "one_hour_instabuy": 6.940476190476191,
+    "coins_per_hour": 1116805.7
+  },
+  {
+    "product_id": "SHARD_VORACIOUS_SPIDER",
+    "buy_price": 14065.3,
+    "sell_price": 9249.7,
+    "one_hour_instabuy": 491.3511904761905,
+    "coins_per_hour": 1113642.0
+  },
+  {
+    "product_id": "ENCHANTMENT_SMARTY_PANTS_1",
+    "buy_price": 460694.0,
+    "sell_price": 360311.4,
+    "one_hour_instabuy": 12.369047619047619,
+    "coins_per_hour": 1113424.4
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_LAST_STAND_1",
+    "buy_price": 119998.1,
+    "sell_price": 88715.8,
+    "one_hour_instabuy": 38.94642857142857,
+    "coins_per_hour": 1113180.2
+  },
+  {
+    "product_id": "ENCHANTED_WILD_ROSE",
+    "buy_price": 637.0,
+    "sell_price": 577.6,
+    "one_hour_instabuy": 24566.238095238095,
+    "coins_per_hour": 1107138.9
+  },
+  {
+    "product_id": "ENCHANTMENT_LIFE_STEAL_5",
+    "buy_price": 7429308.8,
+    "sell_price": 4060419.5,
+    "one_hour_instabuy": 0.9226190476190477,
+    "coins_per_hour": 1105359.1
+  },
+  {
+    "product_id": "ENCHANTMENT_ENDER_SLAYER_6",
+    "buy_price": 331391.4,
+    "sell_price": 225545.2,
+    "one_hour_instabuy": 20.56547619047619,
+    "coins_per_hour": 1099858.5
+  },
+  {
+    "product_id": "BEATING_HEART",
+    "buy_price": 23128.5,
+    "sell_price": 4219.4,
+    "one_hour_instabuy": 67.89880952380952,
+    "coins_per_hour": 1099382.1
+  },
+  {
+    "product_id": "SPOOKY_SHARD",
+    "buy_price": 15909.4,
+    "sell_price": 7003.4,
+    "one_hour_instabuy": 128.30357142857142,
+    "coins_per_hour": 1096743.9
+  },
+  {
+    "product_id": "TITANOBOA_SHED",
+    "buy_price": 137999991.4,
+    "sell_price": 121755003.6,
+    "one_hour_instabuy": 0.08333333333333333,
+    "coins_per_hour": 1094999.0
+  },
+  {
+    "product_id": "SHARD_ABYSSAL_LANTERN",
+    "buy_price": 125395.0,
+    "sell_price": 96450.6,
+    "one_hour_instabuy": 165.66666666666666,
+    "coins_per_hour": 1089391.8
+  },
+  {
+    "product_id": "TREASURE_BAIT",
+    "buy_price": 5000.0,
+    "sell_price": 1308.7,
+    "one_hour_instabuy": 1854.0714285714287,
+    "coins_per_hour": 1084163.4
+  },
+  {
+    "product_id": "ENCHANTMENT_TURBO_MOONFLOWER_1",
+    "buy_price": 400240.7,
+    "sell_price": 347823.4,
+    "one_hour_instabuy": 24.93452380952381,
+    "coins_per_hour": 1082454.7
+  },
+  {
+    "product_id": "CALCIFIED_HEART",
+    "buy_price": 67723.0,
+    "sell_price": 14000.9,
+    "one_hour_instabuy": 23.297619047619047,
+    "coins_per_hour": 1064473.1
+  },
+  {
+    "product_id": "ENCHANTMENT_GREEN_THUMB_3",
+    "buy_price": 10530009.7,
+    "sell_price": 5600001.4,
+    "one_hour_instabuy": 3.625,
+    "coins_per_hour": 1061530.7
+  },
+  {
+    "product_id": "ENCHANTMENT_SMITE_6",
+    "buy_price": 79999.4,
+    "sell_price": 5480.2,
+    "one_hour_instabuy": 23.910714285714285,
+    "coins_per_hour": 1058757.1
+  },
+  {
+    "product_id": "ESSENCE_DIAMOND",
+    "buy_price": 261.0,
+    "sell_price": 239.8,
+    "one_hour_instabuy": 68776.04761904762,
+    "coins_per_hour": 1053642.3
+  },
+  {
+    "product_id": "ENCHANTMENT_ULTIMATE_SWARM_5",
+    "buy_price": 13399995.2,
+    "sell_price": 10100001.7,
+    "one_hour_instabuy": 3.9107142857142856,
+    "coins_per_hour": 1053042.4
+  },
+  {
+    "product_id": "ENCHANTED_SPIDER_EYE",
+    "buy_price": 1034.5,
+    "sell_price": 882.3,
+    "one_hour_instabuy": 8149.678571428572,
+    "coins_per_hour": 1050687.1
+  },
+  {
+    "product_id": "VOLTA",
+    "buy_price": 4793.1,
+    "sell_price": 2729.8,
+    "one_hour_instabuy": 535.9345238095239,
+    "coins_per_hour": 1047996.0
+  },
+  {
+    "product_id": "ENCHANTED_QUARTZ",
+    "buy_price": 1094.7,
+    "sell_price": 802.5,
+    "one_hour_instabuy": 3908.440476190476,
+    "coins_per_hour": 1045778.5
+  },
+  {
+    "product_id": "REFINED_MINERAL",
+    "buy_price": 130699.6,
+    "sell_price": 122667.3,
+    "one_hour_instabuy": 548.1428571428571,
+    "coins_per_hour": 1045497.1
+  },
+  {
+    "product_id": "SUPER_MAGIC_MUSHROOM_SOUP",
+    "buy_price": 10315.4,
+    "sell_price": 7000.3,
+    "one_hour_instabuy": 549.1428571428571,
+    "coins_per_hour": 1039008.9
+  },
+  {
+    "product_id": "ENCHANTMENT_TURBO_WHEAT_5",
+    "buy_price": 6199997.4,
+    "sell_price": 2767504.3,
+    "one_hour_instabuy": 3.119047619047619,
+    "coins_per_hour": 1038860.9
+  },
+  {
+    "product_id": "SCORCHED_BOOKS",
+    "buy_price": 38268.2,
+    "sell_price": 2973.9,
+    "one_hour_instabuy": 31.928571428571427,
+    "coins_per_hour": 1037302.1
+  },
+  {
+    "product_id": "SHARD_NEWT",
+    "buy_price": 243034.2,
+    "sell_price": 218304.9,
+    "one_hour_instabuy": 376.20238095238096,
+    "coins_per_hour": 1030579.8
+  },
+  {
+    "product_id": "LUMINO_FIBER",
+    "buy_price": 562704.9,
+    "sell_price": 484724.1,
+    "one_hour_instabuy": 15.773809523809524,
+    "coins_per_hour": 1030344.3
+  },
+  {
+    "product_id": "ENCHANTMENT_PALEONTOLOGIST_1",
+    "buy_price": 214162.2,
+    "sell_price": 145881.6,
+    "one_hour_instabuy": 16.11904761904762,
+    "coins_per_hour": 1022946.2
+  },
+  {
+    "product_id": "SEEDS",
+    "buy_price": 4.2,
+    "sell_price": 0.7,
+    "one_hour_instabuy": 300241.54761904763,
+    "coins_per_hour": 1022472.6
+  },
+  {
+    "product_id": "DIGESTED_MUSHROOMS",
+    "buy_price": 7197.8,
+    "sell_price": 5472.8,
+    "one_hour_instabuy": 652.7619047619048,
+    "coins_per_hour": 1020299.2
+  },
+  {
+    "product_id": "TROUBLED_BUBBLE",
+    "buy_price": 6999997.9,
+    "sell_price": 3500002.9,
+    "one_hour_instabuy": 0.8809523809523809,
+    "coins_per_hour": 1014686.0
+  },
+  {
+    "product_id": "THUNDER_SHARDS",
+    "buy_price": 60968.0,
+    "sell_price": 51690.5,
+    "one_hour_instabuy": 128.04166666666666,
+    "coins_per_hour": 1012261.6
+  },
+  {
+    "product_id": "SHARD_LORD_JAWBUS",
+    "buy_price": 238617.8,
+    "sell_price": 160432.9,
+    "one_hour_instabuy": 27.107142857142858,
+    "coins_per_hour": 1009888.6
+  },
+  {
+    "product_id": "SHADEVINE",
+    "buy_price": 5234.9,
+    "sell_price": 1304.6,
+    "one_hour_instabuy": 264.5357142857143,
+    "coins_per_hour": 1008546.3
+  },
+  {
+    "product_id": "FURBALL",
+    "buy_price": 32111.6,
+    "sell_price": 6124.6,
+    "one_hour_instabuy": 58.589285714285715,
+    "coins_per_hour": 1001105.4
+  }
+]
