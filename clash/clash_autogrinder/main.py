@@ -1,9 +1,10 @@
-from __future__ import annotations
-
 import ctypes
 import threading
 import time
-from dataclasses import dataclass
+
+import image_handler
+
+from dataclasses import (dataclass)
 
 
 VK_CODES: dict[str, int] = {
@@ -21,6 +22,7 @@ VK_CODES: dict[str, int] = {
 class SleepTimes:
     user_input: float = 0.10
     hotkey_poll: float = 0.05
+    long_sleep: float = 5.5
 
 
 @dataclass(frozen=True)
@@ -28,10 +30,15 @@ class Hotkeys:
     start_hotkey: tuple[str, str, str] = ("ctrl", "shift", "1")
     stop_hotkey: tuple[str, str, str] = ("ctrl", "shift", "2")
     end_hotkey: tuple[str, str, str] = ("ctrl", "shift", "3")
+    coords_hotkey: tuple[str, str, str] = ("ctrl", "shift", "4")
 
 
 SLEEP_TIMES = SleepTimes()
 HOTKEYS = Hotkeys()
+
+
+class Point(ctypes.Structure):
+    _fields_ = [("x", ctypes.c_long), ("y", ctypes.c_long)]
 
 
 def virtual_key_code(key: str) -> int:
@@ -48,34 +55,44 @@ def virtual_key_code(key: str) -> int:
 
 
 def check_hotkey(hotkey: tuple[str, str, str]) -> bool:
-    # Return True only when every key in the hotkey tuple is currently held.
     currently_pressed_flag = 0x8000
+    # Return True only when every key in the hotkey tuple is currently held.
     return all(ctypes.windll.user32.GetAsyncKeyState(virtual_key_code(key)) & currently_pressed_flag for key in hotkey)
 
 
+def print_cursor_coordinates() -> None:
+    # Print coordinates of cursor for debugging.
+    point = Point(0, 0)
+    ctypes.windll.user32.GetCursorPos(ctypes.byref(point))
+    print(f"Cursor coordinates: ({point.x}, {point.y})")
+
+
 def clash_autogrinder(stop_event: threading.Event) -> None:
-    # Worker thread entrypoint. This loop keeps running until `main()`
-    # signals the thread to stop through the shared event object.
     while not stop_event.is_set():
-        print("abs")
+        #testcoord1: tuple[int, int] =
+        #testcoord2: tuple[int, int] =
+
+        #print(image_handler.get_str_in_img(testcoord1, testcoord2))
         # Placeholder for the actual grind step implementation.
-        time.sleep(SLEEP_TIMES.user_input)
+        time.sleep(SLEEP_TIMES.long_sleep)
 
 
 def main() -> int:
-    # Main thread: watch for hotkeys, start the worker thread, stop it,
-    # and allow the program to exit once the worker is no longer running.
+    # Manages the clash thread and the stop thread.
     stop_event = threading.Event()
     worker_thread: threading.Thread | None = None
 
+    # Stop consecutive actions.
     start_hotkey_was_pressed = False
     stop_hotkey_was_pressed = False
     end_hotkey_was_pressed = False
+    coords_hotkey_was_pressed = False
 
     while True:
         start_hotkey_pressed = check_hotkey(HOTKEYS.start_hotkey)
         stop_hotkey_pressed = check_hotkey(HOTKEYS.stop_hotkey)
         end_hotkey_pressed = check_hotkey(HOTKEYS.end_hotkey)
+        coords_hotkey_pressed = check_hotkey(HOTKEYS.coords_hotkey)
 
         worker_is_running = worker_thread is not None and worker_thread.is_alive()
 
@@ -99,6 +116,10 @@ def main() -> int:
 
         if end_hotkey_pressed and not end_hotkey_was_pressed and not worker_is_running:
             break
+
+        if coords_hotkey_pressed and not coords_hotkey_was_pressed and not worker_is_running:
+            # Print to console the coordinates of my cursor.
+            print_cursor_coordinates()
 
         start_hotkey_was_pressed = start_hotkey_pressed
         stop_hotkey_was_pressed = stop_hotkey_pressed
