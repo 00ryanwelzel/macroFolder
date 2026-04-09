@@ -1,0 +1,16 @@
+{
+  "Builder_Name_Window_Topleft": [null, null],
+  "Builder_Name_Window_Botright": [null, null],
+  "Builder_Price_Window_Topleft": [null, null],
+  "Builder_Price_Window_Botright": [null, null],
+  "User_Gold_Window_Topleft": [null, null],
+  "User_Gold_Window_Botright": [null, null],
+  "User_Elixir_Window_Topleft": [null, null],
+  "User_Elixir_Window_Botright": [null, null],
+  "User_Dark_Window_Topleft": [null, null],
+  "User_Dark_Window_Botright": [null, null],
+  "Available_Loot_Window_Topleft": [null, null],
+  "Available_Loot_Window_Botright": [null, null],
+  "Damage_Window_Topleft": [null, null],
+  "Damage_Window_Botright": [null, null]
+}

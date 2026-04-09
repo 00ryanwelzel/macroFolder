@@ -1,0 +1,13 @@
+{
+  "Builder_Button": [null, null],
+  "Battle_Button": [null, null],
+  "Find_Match_Button": [null, null],
+  "Attack_Button": [null, null],
+  "Return_Home_Button": [null, null],
+  "Troop_Select_Button": [null, null],
+  "Next_Button": [null, null],
+  "Surrender_Button": [null, null],
+  "Surrender_Okay_Button": [null, null],
+  "Upgrade_Button": [null, null],
+  "Upgrade_Confirm_Button": [null, null]
+}
