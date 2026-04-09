@@ -1,4 +1,6 @@
 import json
+import re
+from enum import Enum
 from pathlib import Path
 
 
@@ -15,24 +17,23 @@ if not BUTTON_CONFIG_PATH.exists() or not WINDOW_CONFIG_PATH.exists() or not MAP
 # ---------------
 
 
-def load_json_config(path: Path) -> dict:
-    if not path.exists():
-        raise FileNotFoundError(f"File not found at {Path}")
+def to_enum_name(key: str) -> str:
+    name = key.strip().upper()
+    name = re.sub(r"[^A-Z0-9]+", "_", name)
+    name = re.sub(r"_+", "_", name)
+    name = name.strip("_")
 
-    try:
-        with path.open("r", encoding="utf-8") as file:
-            data = json.load(file)
-    except json.JSONDecodeError as err:
-        raise SyntaxError(err)
+    if not name:
+        raise SyntaxError(f"Key '{key}' cannot be converted into a valid enum name")
 
-    except OSError as err:
-        raise FileNotFoundError(err)
+    if name[0].isdigit():
+        name = f"KEY_{name}"
 
-    validate_config(data, path)
-    return data
+    return name
 
 
 def validate_config(data: dict, path: Path | str = "config") -> None:
+    # Ensure the config is a JSON object whose values are [x, y] coordinate pairs.
     if not isinstance(data, dict):
         raise SyntaxError(f"{path} must be a JSON object")
 
@@ -57,7 +58,7 @@ def validate_config(data: dict, path: Path | str = "config") -> None:
 
 def get_position(config: dict, name: str) -> tuple[int, int] | None:
     if name not in config:
-        raise FileNotFoundError(f"{name} not found in config")
+        raise KeyError(f"{name} not found in config")
 
     x, y = config[name]
 
@@ -65,6 +66,34 @@ def get_position(config: dict, name: str) -> tuple[int, int] | None:
         return None
 
     return x, y
+
+
+def load_enum(config: dict):
+    members = {}
+
+    for key in config:
+        enum_name = to_enum_name(key)
+
+        if enum_name in members:
+            raise SyntaxError(
+                f"Duplicate enum name '{enum_name}' generated from key '{key}'"
+            )
+
+        members[enum_name] = key
+
+    return Enum("ENUMNAME", members)
+
+
+def load_json_config(path: Path) -> dict:
+    # Load a config file, parse its JSON, and validate the expected structure.
+    try:
+        with path.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+    except json.JSONDecodeError as err:
+        raise SyntaxError(err)
+
+    validate_config(data, path)
+    return data
 
 # ----------------------
 # --- Main Functions ---
@@ -81,3 +110,15 @@ def load_window_config() -> dict:
 
 def load_map_config() -> dict:
     return load_json_config(MAP_CONFIG_PATH)
+
+
+def load_button_enum() -> type[Enum]:
+    return load_enum(load_button_config())
+
+
+def load_window_enum() -> type[Enum]:
+    return load_enum(load_window_config())
+
+
+def load_map_enum() -> type[Enum]:
+    return load_enum(load_map_config())

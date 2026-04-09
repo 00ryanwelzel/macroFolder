@@ -1,17 +1,20 @@
 import re
 import pytesseract
-
 from pathlib import Path
 from PIL import Image, ImageGrab, ImageOps
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-TESSERACT_EXE = PROJECT_ROOT / "tesseract-main" / "tesseract.exe"
+TESSERACT_EXE = PROJECT_ROOT / "Tesseract-OCR" / "tesseract.exe"
 
 if TESSERACT_EXE.exists():
     pytesseract.pytesseract.tesseract_cmd = str(TESSERACT_EXE)
 else:
     raise FileNotFoundError(f"Tesseract not found at {TESSERACT_EXE}")
+
+# ---------------
+# --- Helpers ---
+# ---------------
 
 
 def capture_region(topleft: tuple[int, int], botright: tuple[int, int]) -> Image.Image:
@@ -34,6 +37,10 @@ def prepare_for_ocr(image: Image.Image) -> Image.Image:
 def read_text(image: Image.Image, config: str = "") -> str:
     raw_text = pytesseract.image_to_string(prepare_for_ocr(image), config=config)
     return raw_text.strip()
+
+# ----------------------
+# --- Main Functions ---
+# ----------------------
 
 
 def get_str_in_img(topleft: tuple[int, int], botright: tuple[int, int]) -> list[str] | str:
