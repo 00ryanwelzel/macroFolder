@@ -200,17 +200,23 @@ def is_key_down(key: str) -> bool:
 def is_hotkey_down(hotkey: tuple[str, ...]) -> bool:
     return all(is_key_down(key) for key in hotkey)
 
+
+def sleep_after_action(delay: float | None) -> None:
+    if delay:
+        time.sleep(delay)
+
 # ------------------------
 # --- Cursor Functions ---
 # ------------------------
 
 
-def cursor_moveto(moveto: tuple[int, int], over: float) -> None:
-    start_x, start_y = cursor_isat()
-    end_x, end_y = moveto
+def moveto(destination: tuple[int, int], over: float, end: float | None = None) -> None:
+    start_x, start_y = isat()
+    end_x, end_y = destination
 
     if over <= 0:
         USER32.SetCursorPos(end_x, end_y)
+        sleep_after_action(end)
         return
 
     step_duration = 0.01
@@ -223,8 +229,10 @@ def cursor_moveto(moveto: tuple[int, int], over: float) -> None:
         USER32.SetCursorPos(next_x, next_y)
         time.sleep(over / steps)
 
+    sleep_after_action(end)
 
-def cursor_isat() -> tuple[int, int]:
+
+def isat() -> tuple[int, int]:
     point = Point(0, 0)
     USER32.GetCursorPos(ctypes.byref(point))
     return point.x, point.y
@@ -234,41 +242,48 @@ def cursor_isat() -> tuple[int, int]:
 # -----------------------
 
 
-def leftmousedown() -> None:
+def leftmousedown(end: float | None = None) -> None:
     USER32.mouse_event(MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0)
+    sleep_after_action(end)
 
 
-def leftmouseup() -> None:
+def leftmouseup(end: float | None = None) -> None:
     USER32.mouse_event(MOUSEEVENTF_LEFTUP, 0, 0, 0, 0)
+    sleep_after_action(end)
 
 
-def rightmousedown() -> None:
+def rightmousedown(end: float | None = None) -> None:
     USER32.mouse_event(MOUSEEVENTF_RIGHTDOWN, 0, 0, 0, 0)
+    sleep_after_action(end)
 
 
-def rightmouseup() -> None:
+def rightmouseup(end: float | None = None) -> None:
     USER32.mouse_event(MOUSEEVENTF_RIGHTUP, 0, 0, 0, 0)
+    sleep_after_action(end)
 
 
-def cursor_leftclick() -> None:
+def leftclick(end: float | None = None) -> None:
     leftmousedown()
     time.sleep(CLICKSLEEP)
     leftmouseup()
+    sleep_after_action(end)
 
 
-def cursor_rightclick() -> None:
+def rightclick(end: float | None = None) -> None:
     rightmousedown()
     time.sleep(CLICKSLEEP)
     rightmouseup()
+    sleep_after_action(end)
 
 # ------------------------
 # --- Scroll Functions ---
 # ------------------------
 
 
-def scroll(delta: int, over: float) -> None:
+def scroll(delta: int, over: float, end: float | None = None) -> None:
     if over <= 0:
         USER32.mouse_event(MOUSEEVENTF_WHEEL, 0, 0, delta, 0)
+        sleep_after_action(end)
         return
 
     step_duration = 0.05
@@ -278,10 +293,12 @@ def scroll(delta: int, over: float) -> None:
         USER32.mouse_event(MOUSEEVENTF_WHEEL, 0, 0, delta, 0)
         time.sleep(over / steps)
 
-
-def scrolldown(steps: int, over: float) -> None:
-    scroll(-steps * WHEEL_DELTA, over)
+    sleep_after_action(end)
 
 
-def scrollup(steps: int, over: float) -> None:
-    scroll(steps * WHEEL_DELTA, over)
+def scrolldown(steps: int, over: float, end: float | None = None) -> None:
+    scroll(-steps * WHEEL_DELTA, over, end)
+
+
+def scrollup(steps: int, over: float, end: float | None = None) -> None:
+    scroll(steps * WHEEL_DELTA, over, end)

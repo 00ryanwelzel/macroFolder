@@ -17,10 +17,10 @@ else:
 # ---------------
 
 
-def capture_region(topleft: tuple[int, int], botright: tuple[int, int]) -> Image.Image:
+def capture_region(window: tuple[tuple[int, int], tuple[int, int]]) -> Image.Image:
     # Get the image displayed within a defined region.
-    left, top = topleft
-    right, bottom = botright
+    left, top = window[0]
+    right, bottom = window[1]
 
     if right <= left or bottom <= top:
         raise ValueError("botright values must be strictly greater than topleft")
@@ -43,9 +43,9 @@ def read_text(image: Image.Image, config: str = "") -> str:
 # ----------------------
 
 
-def get_str_in_img(topleft: tuple[int, int], botright: tuple[int, int]) -> list[str] | str:
+def get_str_in_img(window: tuple[tuple[int, int], tuple[int, int]]) -> list[str] | str:
     # Finds and returns every string in an image.
-    image = capture_region(topleft, botright)
+    image = capture_region(window)
     text = read_text(image)
     strings = [line.strip() for line in text.splitlines() if line.strip()]
 
@@ -55,9 +55,9 @@ def get_str_in_img(topleft: tuple[int, int], botright: tuple[int, int]) -> list[
     return strings
 
 
-def get_int_in_img(topleft: tuple[int, int], botright: tuple[int, int]) -> list[int] | int:
+def get_int_in_img(window: tuple[tuple[int, int], tuple[int, int]]) -> list[int] | int:
     # Finds and returns every integer in an image.
-    image = capture_region(topleft, botright)
+    image = capture_region(window)
     text = read_text(image, config="--psm 6")
     integers = [int(match) for match in re.findall(r"-?\d+", text)]
 
