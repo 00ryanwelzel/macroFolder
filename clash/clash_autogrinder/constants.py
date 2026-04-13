@@ -23,6 +23,7 @@ class Hotkeys:
     stop_hotkey: tuple[str, ...] = ("ctrl", "alt", "2")
     end_hotkey: tuple[str, ...] = ("ctrl", "alt", "3")
     coords_hotkey: tuple[str, ...] = ("ctrl", "alt", "4")
+    test_hotkey: tuple[str, ...] = ("ctrl", "alt", "5")
 
 
 @dataclass(frozen=True)

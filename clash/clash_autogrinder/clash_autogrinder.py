@@ -13,6 +13,8 @@ MAP_CONFIG = config_handler.load_map_config()
 ATTACK_SEARCH_LIMIT = 5
 SCROLL_OUT_STEPS = 3
 
+UPGRADE_MENU: dict[tuple[str, int], int] = {}
+
 # --- Helpers ---
 
 
@@ -107,10 +109,75 @@ def attack_base() -> None:
 
 
 def get_upgrade_prices() -> None:
-    pass
+    # Rebuild the menu from the currently open builder list.
+    UPGRADE_MENU.clear()
+    previous_final_upgrade = None
+
+    while True:
+        # Read the currently visible builder rows from separate name and price windows.
+        raw_names = image_handler.get_str_in_img(WINDOW_CONFIG["Builder_Name_Window"])
+        raw_prices = image_handler.get_int_in_img(WINDOW_CONFIG["Builder_Price_Window"])
+
+        def parse_upgrade(in_name: str, in_price: int) -> tuple[tuple[str, int], int]:
+            # Count text comes before the first letter; the rest is the upgrade name.
+            count_string = ""
+            name_start_index = 0
+            for index, character in enumerate(in_name):
+                if character.isalpha():
+                    name_start_index = index
+                    break
+
+                count_string += character
+
+            count_string = count_string.strip()
+            count = int(count_string) if count_string else 1
+            in_name = in_name[name_start_index:].strip()
+            return (in_name, count), in_price
+
+        if names_length == 0:
+            break
+
+        # If the final visible row does not change after dragging, the menu has stopped scrolling.
+        if isinstance(raw_names, str):
+            final_name = raw_names
+        else:
+            final_name = raw_names[-1]
+
+        if isinstance(raw_prices, int):
+            final_price = raw_prices
+        else:
+            final_price = raw_prices[-1]
+
+        current_final_upgrade = parse_upgrade(final_name, final_price)
+
+        if current_final_upgrade == previous_final_upgrade:
+            break
+
+        # Store directly into the declared menu dict as (name, count) -> price.
+        if isinstance(raw_names, str):
+            price = raw_prices if isinstance(raw_prices, int) else raw_prices[0]
+            upgrade, price = parse_upgrade(raw_names, price)
+            UPGRADE_MENU[upgrade] = price
+        elif isinstance(raw_prices, int):
+            upgrade, price = parse_upgrade(raw_names[0], raw_prices)
+            UPGRADE_MENU[upgrade] = price
+        else:
+            for name, price in zip(raw_names, raw_prices):
+                # Names and prices are paired by matching index; leading count text is stored separately.
+                upgrade, price = parse_upgrade(name, price)
+                UPGRADE_MENU[upgrade] = price
+
+        previous_final_upgrade = current_final_upgrade
+        drag(MAP_CONFIG["Builder_Menu_Scroll_Bottom"], MAP_CONFIG["Builder_Menu_Scroll_Top"], WaitTimes.scroll)
+
+
+def prices_tester() -> None:
+    moveto_leftclick(BUTTON_CONFIG["Builder_Button"])
+    get_upgrade_prices()
 
 
 def clash_autogrinder(stop_event: threading.Event) -> None:
+    """
     while not stop_event.is_set():
         get_upgrade_prices()
 
@@ -131,3 +198,4 @@ def clash_autogrinder(stop_event: threading.Event) -> None:
 
         attack_base()
         break
+        """

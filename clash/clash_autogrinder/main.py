@@ -2,7 +2,7 @@ import threading
 import time
 
 import input_handler
-from clash_autogrinder import clash_autogrinder
+import clash_autogrinder
 from constants import Hotkeys, PollTimes
 
 
@@ -14,12 +14,14 @@ def main() -> int:
     stop_hotkey_was_pressed = False
     end_hotkey_was_pressed = False
     coords_hotkey_was_pressed = False
+    test_hotkey_was_pressed = False
 
     while True:
         start_hotkey_pressed = input_handler.is_all_keys_down(Hotkeys.start_hotkey)
         stop_hotkey_pressed = input_handler.is_all_keys_down(Hotkeys.stop_hotkey)
         end_hotkey_pressed = input_handler.is_all_keys_down(Hotkeys.end_hotkey)
         coords_hotkey_pressed = input_handler.is_all_keys_down(Hotkeys.coords_hotkey)
+        test_hotkey_pressed = input_handler.is_all_keys_down(Hotkeys.test_hotkey)
 
         worker_is_running = worker_thread is not None and worker_thread.is_alive()
 
@@ -47,10 +49,15 @@ def main() -> int:
         if coords_hotkey_pressed and not coords_hotkey_was_pressed and not worker_is_running:
             print(input_handler.isat())
 
+        if test_hotkey_pressed and not test_hotkey_was_pressed:
+            time.sleep(5)
+            clash_autogrinder.prices_tester()
+
         start_hotkey_was_pressed = start_hotkey_pressed
         stop_hotkey_was_pressed = stop_hotkey_pressed
         end_hotkey_was_pressed = end_hotkey_pressed
         coords_hotkey_was_pressed = coords_hotkey_pressed
+        test_hotkey_was_pressed = test_hotkey_pressed
 
         time.sleep(PollTimes.hotkey_poll)
 
